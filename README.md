@@ -113,7 +113,7 @@ in this repository you can find a collection of designs using Verilog, I have co
 <hr>
 
 ### Introduction to Selection 
-you know how learning something new might seem hard or scary? this was an attempt to de-scarify the process. :D (the <a href="https://github.com/nazaninsbr/Introduction-to-Selection">link</a>to the repo.)<br>
+you know how learning something new might seem hard or scary? this was an attempt to de-scarify the process. :D (the <a href="https://github.com/nazaninsbr/Introduction-to-Selection">link</a> to the repo.)<br>
 <hr>
 
 ### Algorithms, Data Structure
@@ -126,12 +126,12 @@ This project was my introduction to the world of AI and I loved it, it is a sear
 <hr>
 
 ### Photo Mosaic
-I've always wanted to be able to create one of those photo mosaics and here it is,<a href="https://github.com/nazaninsbr/Photo-Mosaic">check it out!!</a>
+I've always wanted to be able to create one of those photo mosaics and here it is,<a href="https://github.com/nazaninsbr/Photo-Mosaic">check it out!!</a><br>
 <img src="./images/photoMosaic.jpg?raw=true" height="300">
 <hr>
 
 ###Tutle Drawing 
-In this repository I'm trying to learn how to drw different shapes using python Turtles. you can see the codes <a href="https://github.com/nazaninsbr/Turtle-Drawings">here</a>
+In this repository I'm trying to learn how to drw different shapes using python Turtles. you can see the codes <a href="https://github.com/nazaninsbr/Turtle-Drawings">here</a><br>
 <img src="./images/turtle-drawing.png?raw=true" height="300">
 <hr>
 
@@ -144,7 +144,7 @@ This is a genetic algoritm that tries to solve the problem of scheduling univers
 <hr>
 
 ### 50-50-Personal-Website
-it looks like...
+it looks like...<br>
 <img src="./images/5050.png?raw=true" height="300">
 <hr>
 
@@ -161,14 +161,19 @@ example webpage, the code is <a href="https://github.com/nazaninsbr/Example-Webs
 <hr>
 
 ### Chat App
-a chatroom made using Elixir, here is the <a href="https://github.com/nazaninsbr/Chat-App">Chat App</a>
+a chatroom made using Elixir, here is the <a href="https://github.com/nazaninsbr/Chat-App">Chat App</a><br>
 <img src="./images/chatapp.png?raw=true" height="300">
+<hr>
 
 ### Everything Processing 
 this repository starts with simple, basic concepts and then grows into a more complicated, cooler thing! check out the code <a href="https://github.com/nazaninsbr/Everything-Processing#challenge">here</a>
+<hr>
 
 ### Web Development
 a collection of 10 different projects that revolve around the web, check out the <a href="https://github.com/nazaninsbr/Web-Development">link</a>
+<hr>
 
 ### UT Semester 5
-All the courses I took in my fifth semester, the material are basically anything and everything. Such as: codes, notes, questions and solutions, exam examples, HW, mind maps, presentations and summaries. <li><a href="https://github.com/nazaninsbr/UT-Semester5">see the repo here.</a></li>
+All the courses I took in my fifth semester, the material are basically anything and everything. Such as: codes, notes, questions and solutions, exam examples, HW, mind maps, presentations and summaries. <a href="https://github.com/nazaninsbr/UT-Semester5">see the repo here.</a>
+<hr>
+
