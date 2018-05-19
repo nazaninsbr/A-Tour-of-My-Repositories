@@ -186,5 +186,5 @@ All the courses I took in my fifth semester, the material are basically anything
 
 ### angular-2-template
 a work based on the Angular tutorial by thenewboston <a href="https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBYxWxJtLi8c6PGjNKGYGZZ">here</a>, it creates a list like this:<br>
-<img src="./images/angular2.png?raw=true" height="300">
+<img src="./images/angular2.png?raw=true" height="150">
 <hr>
