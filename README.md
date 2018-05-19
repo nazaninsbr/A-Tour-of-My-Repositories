@@ -15,6 +15,7 @@ I am going to give you a tour:)<br>
 	<li><a href="#python">python</a></li>
 	<li><a href="#java">Java</a></li>
 	<li><a href="#html">HTML, CSS</a></li>
+	<li><a href="#js">JS</a></li>
 	<li><a href="#verilog">Verilog</a></li>
 	<li><a href="#processing">Processing</a></li>
 	<li><a href="#elixir">Elixir</a></li>
@@ -42,6 +43,11 @@ I am going to give you a tour:)<br>
 	<li><a href="https://github.com/nazaninsbr/50-50-Personal-Website">50-50-Personal-Website</a></li>
 	<li><a href="https://github.com/nazaninsbr/Example-Website">Example Website</a></li>
 	<li><a href="https://github.com/nazaninsbr/Example-Website">Static Website</a></li>
+</ul>
+
+### JS
+<ul id="js">
+	<li><a href="https://github.com/nazaninsbr/angular-2-template">angular-2-template</a></li>
 </ul>
 
 ### Verilog
@@ -96,6 +102,7 @@ I am going to give you a tour:)<br>
 	<li><a href="https://github.com/nazaninsbr/Everything-Processing#challenge">Everything Processing</a></li>
 	<li><a href="https://github.com/nazaninsbr/Web-Development">Web Development</a></li>
 	<li><a href="https://github.com/nazaninsbr/UT-Semester5">UT Semester 5</a></li>
+	<li><a href="https://github.com/nazaninsbr/angular-2-template">angular-2-template</a></li>
 </ol>
 
 
@@ -177,3 +184,7 @@ a collection of 10 different projects that revolve around the web, check out the
 All the courses I took in my fifth semester, the material are basically anything and everything. Such as: codes, notes, questions and solutions, exam examples, HW, mind maps, presentations and summaries. <a href="https://github.com/nazaninsbr/UT-Semester5">see the repo here.</a>
 <hr>
 
+### angular-2-template
+a work based on the Angular tutorial by thenewboston <a href="https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBYxWxJtLi8c6PGjNKGYGZZ">here</a>, it creates a list like this:<br>
+<img src="./images/angular2.png?raw=true" height="300">
+<hr>
