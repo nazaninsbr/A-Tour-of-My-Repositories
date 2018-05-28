@@ -72,6 +72,7 @@ I am going to give you a tour:)<br>
 	<li><a href="https://github.com/nazaninsbr/Introduction-to-Selection">Introduction to Selection</a></li>
 	<li><a href="https://github.com/nazaninsbr/Algorithms-DataStructure">Algorithms, Data Structure</a></li>
 	<li><a href="https://github.com/nazaninsbr/Web-Development">Web Development</a></li>
+	<li><a href="https://github.com/nazaninsbr/Mini-Projects/tree/master">Mini Projects</a></li>
 </ul>
 
 ### Course Repositories
@@ -105,6 +106,7 @@ I am going to give you a tour:)<br>
 	<li><a href="https://github.com/nazaninsbr/UT-Semester5">UT Semester 5</a></li>
 	<li><a href="https://github.com/nazaninsbr/angular-2-template">angular-2-template</a></li>
 	<li><a href="https://github.com/nazaninsbr/F1-Front-Final/tree/master">F1 Front Final</a></li>
+	<li><a href="https://github.com/nazaninsbr/Mini-Projects/tree/master">Mini Projects</a></li>
 </ol>
 
 
@@ -194,3 +196,8 @@ a work based on the Angular tutorial by thenewboston <a href="https://www.youtub
 ### F1 Front Final
 This repository contains the code behind the F1 Website, you can see the parts of the design <a href="https://github.com/nazaninsbr/F1-Front-Final/tree/master">here</a><br>
 <img src="./images/f1-front.png?raw=true" height="300">
+<hr>
+
+### Mini Projects
+A collection of short projects, you could try and implement these as short projects or use them as part of a larger project. <a href="https://github.com/nazaninsbr/Mini-Projects/tree/master">here</a> is the code.
+
