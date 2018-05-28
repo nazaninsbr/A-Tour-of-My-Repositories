@@ -1,4 +1,4 @@
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Hello! Welcome to my GitHub page:))
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Hello! My name is Nazanin Sabri. Welcome to my GitHub page:))
 
 I am going to give you a tour:)<br>
 
@@ -43,6 +43,7 @@ I am going to give you a tour:)<br>
 	<li><a href="https://github.com/nazaninsbr/50-50-Personal-Website">50-50-Personal-Website</a></li>
 	<li><a href="https://github.com/nazaninsbr/Example-Website">Example Website</a></li>
 	<li><a href="https://github.com/nazaninsbr/Example-Website">Static Website</a></li>
+	<li><a href="https://github.com/nazaninsbr/F1-Front-Final/tree/master">F1 Front Final</a></li>
 </ul>
 
 ### JS
@@ -103,6 +104,7 @@ I am going to give you a tour:)<br>
 	<li><a href="https://github.com/nazaninsbr/Web-Development">Web Development</a></li>
 	<li><a href="https://github.com/nazaninsbr/UT-Semester5">UT Semester 5</a></li>
 	<li><a href="https://github.com/nazaninsbr/angular-2-template">angular-2-template</a></li>
+	<li><a href="https://github.com/nazaninsbr/F1-Front-Final/tree/master">F1 Front Final</a></li>
 </ol>
 
 
@@ -188,3 +190,7 @@ All the courses I took in my fifth semester, the material are basically anything
 a work based on the Angular tutorial by thenewboston <a href="https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBYxWxJtLi8c6PGjNKGYGZZ">here</a>, it creates a list like this:<br>
 <img src="./images/angular2.png?raw=true" height="150">
 <hr>
+
+### F1 Front Final
+This repository contains the code behind the F1 Website, you can see the parts of the design <a href="https://github.com/nazaninsbr/F1-Front-Final/tree/master">here</a><br>
+<img src="./images/f1-front.png?raw=true" height="300">
