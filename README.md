@@ -14,6 +14,7 @@ I am going to give you a tour:)<br>
 <ul>
 	<li><a href="#python">python</a></li>
 	<li><a href="#java">Java</a></li>
+	<li><a href="#c">C</a></li>
 	<li><a href="#html">HTML, CSS</a></li>
 	<li><a href="#js">JS</a></li>
 	<li><a href="#verilog">Verilog</a></li>
@@ -34,6 +35,11 @@ I am going to give you a tour:)<br>
 ### Java 
 <ul id="java">
 	<li><a href="https://github.com/nazaninsbr/Hadoop-Project">Hadoop Project</a></li>
+</ul>
+
+### C
+<ul id="c">
+	<li><a href="https://github.com/nazaninsbr/File-Sharing-System">File Sharing System</a></li>
 </ul>
 
 ### HTML, CSS
@@ -107,6 +113,7 @@ I am going to give you a tour:)<br>
 	<li><a href="https://github.com/nazaninsbr/angular-2-template">angular-2-template</a></li>
 	<li><a href="https://github.com/nazaninsbr/F1-Front-Final/tree/master">F1 Front Final</a></li>
 	<li><a href="https://github.com/nazaninsbr/Mini-Projects/tree/master">Mini Projects</a></li>
+	<li><a href="https://github.com/nazaninsbr/File-Sharing-System">File Sharing System</a></li>
 </ol>
 
 
@@ -200,4 +207,9 @@ This repository contains the code behind the F1 Website, you can see the parts o
 
 ### Mini Projects
 A collection of short projects, you could try and implement these as short projects or use them as part of a larger project. <a href="https://github.com/nazaninsbr/Mini-Projects/tree/master">here</a> is the code.
+<hr>
+
+### File Sharing System 
+this is a file sharing system that works with this idea that there are a number of mini-servers connected to a main server, when they are connecting they inform the main server of the files they have, then when the client connects to the main server and asks for some file the main server can connect it to the mini-server that has that file. you can find the repo <a href="https://github.com/nazaninsbr/File-Sharing-System">here</a>
+<hr>
 
