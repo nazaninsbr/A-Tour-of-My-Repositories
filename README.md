@@ -55,6 +55,7 @@ I am going to give you a tour:)<br>
 ### JS
 <ul id="js">
 	<li><a href="https://github.com/nazaninsbr/angular-2-template">angular-2-template</a></li>
+	<li><a href="https://github.com/nazaninsbr/TicTacToe-with-React">TicTacToe with React</a></li>
 </ul>
 
 ### Verilog
@@ -114,6 +115,7 @@ I am going to give you a tour:)<br>
 	<li><a href="https://github.com/nazaninsbr/F1-Front-Final/tree/master">F1 Front Final</a></li>
 	<li><a href="https://github.com/nazaninsbr/Mini-Projects/tree/master">Mini Projects</a></li>
 	<li><a href="https://github.com/nazaninsbr/File-Sharing-System">File Sharing System</a></li>
+	<li><a href="https://github.com/nazaninsbr/TicTacToe-with-React">TicTacToe with React</a></li>
 </ol>
 
 
@@ -213,3 +215,5 @@ A collection of short projects, you could try and implement these as short proje
 this is a file sharing system that works with this idea that there are a number of mini-servers connected to a main server, when they are connecting they inform the main server of the files they have, then when the client connects to the main server and asks for some file the main server can connect it to the mini-server that has that file. you can find the repo <a href="https://github.com/nazaninsbr/File-Sharing-System">here</a>
 <hr>
 
+### TicTacToe with React
+the game written in React.js, you can find the repo <a href="https://github.com/nazaninsbr/TicTacToe-with-React">here</a>
