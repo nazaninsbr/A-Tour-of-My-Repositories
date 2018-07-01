@@ -74,7 +74,7 @@ I am going to give you a tour:)<br>
 ### Spring 
 <ul id="Spring">
 	<li><a href="https://github.com/nazaninsbr/Consuming-a-RESTful-Web-Service">Consuming a RESTful Web Service</a></li>
-	<li><a href="https://github.com/nazaninsbr/gs-rest-service">gs-rest-service</a></li>
+	<li><a href="https://github.com/nazaninsbr/Building-a-RESTful-Web-Service">Building a RESTful Web-Service</a></li>
 </ul>
 
 ### Elixir
@@ -126,7 +126,7 @@ I am going to give you a tour:)<br>
 	<li><a href="https://github.com/nazaninsbr/TicTacToe-with-React">TicTacToe with React</a></li>
 	<li><a href="https://github.com/nazaninsbr/RestAPI-with-Python-Flask/tree/master">RestAPI with Python Flask</a></li>
 	<li><a href="https://github.com/nazaninsbr/Consuming-a-RESTful-Web-Service">Consuming a RESTful Web Service</a></li>
-	<li><a href="https://github.com/nazaninsbr/gs-rest-service">gs-rest-service</a></li>
+	<li><a href="https://github.com/nazaninsbr/Building-a-RESTful-Web-Service">Building a RESTful Web-Service</a></li>
 </ol>
 
 
