@@ -98,7 +98,7 @@ I am going to give you a tour:)<br>
 
 ### Not Coding Repositories
 <ul id="not">
-	
+	<li><a href="https://github.com/nazaninsbr/Git-Commands">Git Commands</a></li>
 </ul>
 
 ## Just the Names
@@ -129,6 +129,7 @@ I am going to give you a tour:)<br>
 	<li><a href="https://github.com/nazaninsbr/gs-scheduling-tasks">gs scheduling-tasks</a></li>
 	<li><a href="https://github.com/nazaninsbr/Building-a-RESTful-Web-Service">Building a RESTful Web-Service</a></li>
 	<li><a href="https://github.com/nazaninsbr/gs-consuming-rest">gs consuming-rest</a></li>
+	<li><a href="https://github.com/nazaninsbr/Git-Commands">Git Commands</a></li>
 </ol>
 
 
