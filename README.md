@@ -240,6 +240,6 @@ I mean the name says it all right? the code is available <a href="https://github
 <hr>
 
 ### React Todolist 
-a very simple todolist that looks like the image bellow and the code can be found <a href="https://github.com/nazaninsbr/React-TodoList">>here</a><br>
+a very simple todolist that looks like the image bellow and the code can be found <a href="https://github.com/nazaninsbr/React-TodoList">here</a><br>
 <img src="./images/reactTodo.png?raw=true" height="300">
 <hr>
