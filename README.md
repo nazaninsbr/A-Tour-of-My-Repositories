@@ -258,4 +258,4 @@ using sklearn and starting from linear svm to a number of kernels. (code is <a h
 
 ### E Commerce Website
 a very simple no login shopping website, the code is <a href="https://github.com/nazaninsbr/E-Commerce-Website">here</a><br>
-<img src="./images/ecommercesimple.png?raw=true" height="300">
+<img src="./images/ecommercesimple.jpg?raw=true" height="300">
