@@ -32,6 +32,7 @@ I am going to give you a tour:)<br>
 	<li><a href="https://github.com/nazaninsbr/Turtle-Drawings">Tutle Drawing</a></li>
 	<li><a href="https://github.com/nazaninsbr/Genetic-Algorithm">Genetic Algorithm</a></li>
 	<li><a href="https://github.com/nazaninsbr/RestAPI-with-Python-Flask/tree/master">RestAPI with Python Flask</a></li>
+	<li><a href="https://github.com/nazaninsbr/SVM">SVM</a></li>
 </ul>
 
 ### Java 
@@ -134,6 +135,7 @@ I am going to give you a tour:)<br>
 	<li><a href="https://github.com/nazaninsbr/Git-Commands">Git Commands</a></li>
 	<li><a href="https://github.com/nazaninsbr/React-TodoList">React TodoList</a></li>
 	<li><a href="https://github.com/nazaninsbr/OS-UT">OS-UT</a></li>
+	<li><a href="https://github.com/nazaninsbr/SVM">SVM</a></li>
 </ol>
 
 
@@ -244,4 +246,9 @@ I mean the name says it all right? the code is available <a href="https://github
 ### React Todolist 
 a very simple todolist that looks like the image bellow and the code can be found <a href="https://github.com/nazaninsbr/React-TodoList">here</a><br>
 <img src="./images/reactTodo.png?raw=true" height="300">
+<hr>
+
+### SVM 
+using sklearn and starting linear svm to a number of kernels. (code is <a href="https://github.com/nazaninsbr/SVM">here</a>)<br>
+<img src="./images/svm.png?raw=true" height="300">
 <hr>
