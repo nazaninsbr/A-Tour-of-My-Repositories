@@ -249,6 +249,6 @@ a very simple todolist that looks like the image bellow and the code can be foun
 <hr>
 
 ### SVM 
-using sklearn and starting linear svm to a number of kernels. (code is <a href="https://github.com/nazaninsbr/SVM">here</a>)<br>
+using sklearn and starting from linear svm to a number of kernels. (code is <a href="https://github.com/nazaninsbr/SVM">here</a>)<br>
 <img src="./images/svm.png?raw=true" height="300">
 <hr>
