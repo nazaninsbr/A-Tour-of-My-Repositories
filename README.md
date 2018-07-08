@@ -36,6 +36,7 @@ I am going to give you a tour:)<br>
 	<li><a href="https://github.com/nazaninsbr/SVM">SVM</a></li>
 	<li><a href="https://github.com/nazaninsbr/E-Commerce-Website">E Commerce Website</a></li>
 	<li><a href="https://github.com/nazaninsbr/Clustering">Clustering</a></li>
+	<li><a href="https://github.com/nazaninsbr/Regression">Regression</a></li>
 </ul>
 
 ### Java 
@@ -149,6 +150,7 @@ I am going to give you a tour:)<br>
 	<li><a href="https://github.com/nazaninsbr/Clustering">Clustering</a></li>
 	<li><a href="https://github.com/nazaninsbr/Neural-Network/tree/master">Neural Network (VHDL)</a></li>
 	<li><a href="https://github.com/nazaninsbr/Listopia">Listopia</a></li>
+	<li><a href="https://github.com/nazaninsbr/Regression">Regression</a></li>
 </ol>
 
 
