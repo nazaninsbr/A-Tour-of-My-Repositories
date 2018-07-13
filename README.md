@@ -37,6 +37,7 @@ I am going to give you a tour:)<br>
 	<li><a href="https://github.com/nazaninsbr/E-Commerce-Website">E Commerce Website</a></li>
 	<li><a href="https://github.com/nazaninsbr/Clustering">Clustering</a></li>
 	<li><a href="https://github.com/nazaninsbr/Regression">Regression</a></li>
+	<li><a href="https://github.com/nazaninsbr/Matplotlib-Examples">Matplotlib-Examples</a></li>
 </ul>
 
 ### Java 
@@ -151,6 +152,7 @@ I am going to give you a tour:)<br>
 	<li><a href="https://github.com/nazaninsbr/Neural-Network/tree/master">Neural Network (VHDL)</a></li>
 	<li><a href="https://github.com/nazaninsbr/Listopia">Listopia</a></li>
 	<li><a href="https://github.com/nazaninsbr/Regression">Regression</a></li>
+	<li><a href="https://github.com/nazaninsbr/Matplotlib-Examples">Matplotlib-Examples</a></li>
 </ol>
 
 
@@ -272,3 +274,9 @@ using sklearn and starting from linear svm to a number of kernels. (code is <a h
 ### E Commerce Website
 a very simple no login shopping website, the code is <a href="https://github.com/nazaninsbr/E-Commerce-Website">here</a><br>
 <img src="./images/ecommercesimple.jpg?raw=true" height="300">
+<hr>
+
+### Matplotlib-Examples
+using the matplotlib library to draw shapes like this: (<a href="https://github.com/nazaninsbr/Matplotlib-Examples">see the repo here</a>)<br>
+<img src="./images/matplotlibExample.png?raw=true" height="300">
+<hr>
