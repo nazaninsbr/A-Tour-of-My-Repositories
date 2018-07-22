@@ -122,6 +122,7 @@ I am going to give you a tour:)<br>
 ### Not Coding Repositories
 <ul id="not">
 	<li><a href="https://github.com/nazaninsbr/Git-Commands">Git Commands</a></li>
+	<li><a href="https://github.com/nazaninsbr/first-contributions">first-contributions</a></li>
 </ul>
 
 ## Just the Names
@@ -168,6 +169,7 @@ I am going to give you a tour:)<br>
 	<li><a href="https://github.com/nazaninsbr/python-lists-lab-data-science-intro-000">python-lists-lab-data-science-intro-000</a>
 </li>
 	<li><a href="https://github.com/nazaninsbr/py-lists-with-maps-data-science-intro-000">py-lists-with-maps-data-science-intro-000</a></li>
+	<li><a href="https://github.com/nazaninsbr/first-contributions">first-contributions</a></li>
 </ol>
 
 ## Organizations 
