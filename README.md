@@ -18,6 +18,7 @@ I am going to give you a tour:)<br>
 	<li><a href="#c">C</a></li>
 	<li><a href="#html">HTML, CSS</a></li>
 	<li><a href="#js">JS</a></li>
+	<li><a href="#android">Android</a></li>
 	<li><a href="#firebase">firebase</a></li>
 	<li><a href="#verilog">Verilog</a></li>
 	<li><a href="#processing">Processing</a></li>
@@ -62,6 +63,11 @@ I am going to give you a tour:)<br>
 	<li><a href="https://github.com/nazaninsbr/Example-Website">Static Website</a></li>
 	<li><a href="https://github.com/nazaninsbr/F1-Front-Final/tree/master">F1 Front Final</a></li>
 	<li><a href="https://github.com/nazaninsbr/Listopia">Listopia</a></li>
+</ul>
+
+### Android 
+<ul id="android">
+	<li><a href="https://github.com/nazaninsbr/Graph-Display-App/tree/master">Graph-Display App</a></li>
 </ul>
 
 ### JS
@@ -176,6 +182,7 @@ I am going to give you a tour:)<br>
 	<li><a href="https://github.com/nazaninsbr/Social-Media-API-Bots-Starter">Social Media API-Bots Starter</a></li>
 	<li><a href="https://github.com/nazaninsbr/Iris-Dataset">Iris-Dataset</a></li>
 	<li><a href="https://github.com/nazaninsbr/Getting-Started-with-Games">Getting Started with Games</a></li>
+	<li><a href="https://github.com/nazaninsbr/Graph-Display-App/tree/master">Graph-Display App</a></li>
 </ol>
 
 ## Organizations 
@@ -302,7 +309,6 @@ using sklearn and starting from linear svm to a number of kernels. (code is <a h
 <img src="./images/svm.png?raw=true" height="300">
 <hr>
 
-
 ### E Commerce Website
 a very simple no login shopping website, the code is <a href="https://github.com/nazaninsbr/E-Commerce-Website">here</a><br>
 <img src="./images/ecommercesimple.jpg?raw=true" height="300">
@@ -316,4 +322,9 @@ using the matplotlib library to draw shapes like this: (<a href="https://github.
 ### React firebase Todo app
 my very first react project using firebase database: (<a href="https://github.com/nazaninsbr/react-firebase-todo-app">see the repo here</a>)<br>
 <img src="./images/reactfirebaseTodo.png?raw=true" height="300">
+<hr>
+
+### Graph-Display App
+An Android app that shows graphs made in the java file or based on a JSON file (Code is <a href="https://github.com/nazaninsbr/Graph-Display-App/tree/master">here</a>)<br>
+<img src="./images/graph-display.png?raw=true" height="300">
 <hr>
