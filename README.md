@@ -113,6 +113,7 @@ I am going to give you a tour:)<br>
 	<li><a href="https://github.com/nazaninsbr/Web-Development">Web Development</a></li>
 	<li><a href="https://github.com/nazaninsbr/Mini-Projects/tree/master">Mini Projects</a></li>
 	<li><a href="https://github.com/nazaninsbr/Social-Media-API-Bots-Starter">Social Media API-Bots Starter</a></li>
+	<li><a href="https://github.com/nazaninsbr/Getting-Started-with-Games">Getting Started with Games</a></li>
 </ul>
 
 ### Course Repositories
@@ -174,6 +175,7 @@ I am going to give you a tour:)<br>
 	<li><a href="https://github.com/nazaninsbr/first-contributions">first-contributions</a></li>
 	<li><a href="https://github.com/nazaninsbr/Social-Media-API-Bots-Starter">Social Media API-Bots Starter</a></li>
 	<li><a href="https://github.com/nazaninsbr/Iris-Dataset">Iris-Dataset</a></li>
+	<li><a href="https://github.com/nazaninsbr/Getting-Started-with-Games">Getting Started with Games</a></li>
 </ol>
 
 ## Organizations 
