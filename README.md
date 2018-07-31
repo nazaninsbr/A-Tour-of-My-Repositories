@@ -76,6 +76,7 @@ I am going to give you a tour:)<br>
 	<li><a href="https://github.com/nazaninsbr/TicTacToe-with-React">TicTacToe with React</a></li>
 	<li><a href="https://github.com/nazaninsbr/React-TodoList">React TodoList</a></li>
 	<li><a href="https://github.com/nazaninsbr/react-firebase-todo-app">react-firebase-todo-app</a></li>
+	<li><a href="https://github.com/nazaninsbr/Intro-to-TensorflowJS">Intro to TensorflowJS</a></li>
 </ul>
 
 ### Firebase
@@ -183,6 +184,7 @@ I am going to give you a tour:)<br>
 	<li><a href="https://github.com/nazaninsbr/Iris-Dataset">Iris-Dataset</a></li>
 	<li><a href="https://github.com/nazaninsbr/Getting-Started-with-Games">Getting Started with Games</a></li>
 	<li><a href="https://github.com/nazaninsbr/Graph-Display-App/tree/master">Graph-Display App</a></li>
+	<li><a href="https://github.com/nazaninsbr/Intro-to-TensorflowJS">Intro to TensorflowJS</a></li>
 </ol>
 
 ## Organizations 
