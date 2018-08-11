@@ -53,6 +53,7 @@ I am going to give you a tour:)<br>
 ### Java 
 <ul id="java">
 	<li><a href="https://github.com/nazaninsbr/Hadoop-Project">Hadoop Project</a></li>
+	<li><a href="https://github.com/nazaninsbr/Chat-Application">Chat Application</a></li>
 </ul>
 
 ### C
