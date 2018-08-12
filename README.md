@@ -48,6 +48,7 @@ I am going to give you a tour:)<br>
 	<li><a href="https://github.com/nazaninsbr/Python-Multithreading-Multiprocessing">Python Multithreading and Multiprocessing</a></li>
 	<li><a href="https://github.com/nazaninsbr/superhero-dataset-rethinkdb-tutorial">superhero-dataset rethinkdb-tutorial</a></li>
 	<li><a href="https://github.com/nazaninsbr/Wikipedia-Crawler">Wikipedia Crawler</a></li>
+	<li><a href="https://github.com/nazaninsbr/Simple-HR-System">Simple HR-System</a></li>
 </ul>
 
 ### Java 
@@ -203,6 +204,7 @@ I am going to give you a tour:)<br>
 	<li><a href="https://github.com/nazaninsbr/Wikipedia-Crawler">Wikipedia Crawler</a></li>
 	<li><a href="https://github.com/nazaninsbr/Chat-Application">Chat Application</a></li>
 	<li><a href="https://github.com/nazaninsbr/Spring-boot-Angular-Todo">Spring-boot Angular Todo</a></li>
+	<li><a href="https://github.com/nazaninsbr/Simple-HR-System">Simple HR-System</a></li>
 </ol>
 
 ## Organizations 
