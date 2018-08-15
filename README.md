@@ -50,6 +50,7 @@ I am going to give you a tour:)<br>
 	<li><a href="https://github.com/nazaninsbr/Wikipedia-Crawler">Wikipedia Crawler</a></li>
 	<li><a href="https://github.com/nazaninsbr/Simple-HR-System">Simple HR-System</a></li>
 	<li><a href="https://github.com/nazaninsbr/Twitter-Crawler">Twitter Crawler</a></li>
+	<li><a href="https://github.com/nazaninsbr/Django-ChatJS-Dashboard">Django-ChatJS Dashboard</a></li>
 </ul>
 
 ### Java 
@@ -207,6 +208,7 @@ I am going to give you a tour:)<br>
 	<li><a href="https://github.com/nazaninsbr/Spring-boot-Angular-Todo">Spring-boot Angular Todo</a></li>
 	<li><a href="https://github.com/nazaninsbr/Simple-HR-System">Simple HR-System</a></li>
 	<li><a href="https://github.com/nazaninsbr/Twitter-Crawler">Twitter Crawler</a></li>
+	<li><a href="https://github.com/nazaninsbr/Django-ChatJS-Dashboard">Django-ChatJS Dashboard</a></li>
 </ol>
 
 ## Organizations 
@@ -356,4 +358,10 @@ An Android app that shows graphs made in the java file or based on a JSON file (
 ### Personal Website
 The building blocks of a personal website-blog (find the code<a href="https://github.com/nazaninsbr/Personal-Website">here</a>)<br>
 <img src="./images/pwb.png?raw=true" height="300">
+<hr>
+
+
+### Django-ChatJS Dashboard
+a simple dashboard with calculations, charts and notifications. (you can see the code <a href="https://github.com/nazaninsbr/Django-ChatJS-Dashboard">here</a>) and here is what it looks like:<br>
+<img src="./images/djangoChartDashboard.png?raw=true" height="300">
 <hr>
