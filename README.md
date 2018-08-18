@@ -87,7 +87,7 @@ I am going to give you a tour:)<br>
 	<li><a href="https://github.com/nazaninsbr/react-firebase-todo-app">react-firebase-todo-app</a></li>
 	<li><a href="https://github.com/nazaninsbr/Intro-to-TensorflowJS">Intro to TensorflowJS</a></li>
 	<li><a href="https://github.com/nazaninsbr/Okta-Login">Okta Login</a></li>
-	<li><a href="https://github.com/nazaninsbr/Getting-Started-with-GatsbyJS">Getting Started with Gatsby.js</a><li>
+	<li><a href="https://github.com/nazaninsbr/Getting-Started-with-GatsbyJS">Getting Started with Gatsby.js</a></li>
 </ul>
 
 ### Firebase
@@ -214,7 +214,7 @@ I am going to give you a tour:)<br>
 	<li><a href="https://github.com/nazaninsbr/Django-ChatJS-Dashboard">Django-ChatJS Dashboard</a></li>
 	<li><a href="https://github.com/nazaninsbr/Online-Courses">Online-Courses</a></li>
 	<li><a href="https://github.com/nazaninsbr/polls">polls</a></li>
-	<li><a href="https://github.com/nazaninsbr/Getting-Started-with-GatsbyJS">Getting Started with Gatsby.js</a><li>
+	<li><a href="https://github.com/nazaninsbr/Getting-Started-with-GatsbyJS">Getting Started with Gatsby.js</a></li>
 </ol>
 
 ## Organizations 
