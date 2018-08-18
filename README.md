@@ -56,8 +56,6 @@ I am going to give you a tour:)<br>
 ### Java 
 <ul id="java">
 	<li><a href="https://github.com/nazaninsbr/Hadoop-Project">Hadoop Project</a></li>
-	<li><a href="https://github.com/nazaninsbr/Chat-Application">Chat Application</a></li>
-	<li><a href="https://github.com/nazaninsbr/Spring-boot-Angular-Todo">Spring-boot Angular Todo</a></li>
 </ul>
 
 ### C
@@ -113,6 +111,9 @@ I am going to give you a tour:)<br>
 	<li><a href="https://github.com/nazaninsbr/gs-scheduling-tasks">gs scheduling-tasks</a></li>
 	<li><a href="https://github.com/nazaninsbr/Building-a-RESTful-Web-Service">Building a RESTful Web-Service</a></li>
 	<li><a href="https://github.com/nazaninsbr/gs-consuming-rest">gs consuming-rest</a></li>
+	<li><a href="https://github.com/nazaninsbr/Chat-Application">Chat Application</a></li>
+	<li><a href="https://github.com/nazaninsbr/Spring-boot-Angular-Todo">Spring-boot Angular Todo</a></li>
+	<li><a href="https://github.com/nazaninsbr/polls">polls</a></li>
 </ul>
 
 ### Elixir
@@ -211,6 +212,7 @@ I am going to give you a tour:)<br>
 	<li><a href="https://github.com/nazaninsbr/Twitter-Crawler">Twitter Crawler</a></li>
 	<li><a href="https://github.com/nazaninsbr/Django-ChatJS-Dashboard">Django-ChatJS Dashboard</a></li>
 	<li><a href="https://github.com/nazaninsbr/Online-Courses">Online-Courses</a></li>
+	<li><a href="https://github.com/nazaninsbr/polls">polls</a></li>
 </ol>
 
 ## Organizations 
