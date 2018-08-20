@@ -52,6 +52,7 @@ I am going to give you a tour:)<br>
 	<li><a href="https://github.com/nazaninsbr/Simple-HR-System">Simple HR-System</a></li>
 	<li><a href="https://github.com/nazaninsbr/Twitter-Crawler">Twitter Crawler</a></li>
 	<li><a href="https://github.com/nazaninsbr/Django-ChatJS-Dashboard">Django-ChatJS Dashboard</a></li>
+	<li><a href="https://github.com/nazaninsbr/Learn-and-use-ML">Learn and use ML</a></li>
 </ul>
 
 ### Java 
@@ -62,6 +63,7 @@ I am going to give you a tour:)<br>
 ### C
 <ul id="c">
 	<li><a href="https://github.com/nazaninsbr/File-Sharing-System">File Sharing System</a></li>
+	<li><a href="https://github.com/nazaninsbr/Search">Search</a></li>
 </ul>
 
 ### HTML, CSS
@@ -216,6 +218,8 @@ I am going to give you a tour:)<br>
 	<li><a href="https://github.com/nazaninsbr/Online-Courses">Online-Courses</a></li>
 	<li><a href="https://github.com/nazaninsbr/polls">polls</a></li>
 	<li><a href="https://github.com/nazaninsbr/Getting-Started-with-GatsbyJS">Getting Started with Gatsby.js</a></li>
+	<li><a href="https://github.com/nazaninsbr/Learn-and-use-ML">Learn and use ML</a></li>
+	<li><a href="https://github.com/nazaninsbr/Search">Search</a></li>
 </ol>
 
 ## Organizations 
