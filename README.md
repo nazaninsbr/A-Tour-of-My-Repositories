@@ -20,6 +20,7 @@ I am going to give you a tour:)<br>
 	<li><a href="#cpp">C++</a></li>
 	<li><a href="#html">HTML, CSS</a></li>
 	<li><a href="#js">JS</a></li>
+	<li><a href="#typescript">TypeScript</a></li>
 	<li><a href="#android">Android</a></li>
 	<li><a href="#firebase">firebase</a></li>
 	<li><a href="#verilog">Verilog</a></li>
@@ -55,6 +56,9 @@ I am going to give you a tour:)<br>
 	<li><a href="https://github.com/nazaninsbr/Django-ChatJS-Dashboard">Django-ChatJS Dashboard</a></li>
 	<li><a href="https://github.com/nazaninsbr/Learn-and-use-ML">Learn and use ML</a></li>
 	<li><a href="https://github.com/nazaninsbr/Network-Programming">Network Programming</a></li>
+	<li><a href="https://github.com/nazaninsbr/Queue">Queue</a></li>
+	<li><a href="https://github.com/nazaninsbr/Stack">Stack</a></li>
+	<li><a href="https://github.com/nazaninsbr/LinkedLists">Linked List</a></li>
 </ul>
 
 ### Java 
@@ -98,6 +102,11 @@ I am going to give you a tour:)<br>
 	<li><a href="https://github.com/nazaninsbr/Intro-to-TensorflowJS">Intro to TensorflowJS</a></li>
 	<li><a href="https://github.com/nazaninsbr/Okta-Login">Okta Login</a></li>
 	<li><a href="https://github.com/nazaninsbr/Getting-Started-with-GatsbyJS">Getting Started with Gatsby.js</a></li>
+</ul>
+
+### TypeScript 
+<ul id="typescript"><li><a href="https://github.com/nazaninsbr/angular-2-template">angular-2-template</a></li>
+	<li><a href="https://github.com/nazaninsbr/What-is-TypeScript">What is TypeScript</a></li>
 </ul>
 
 ### Firebase
@@ -229,6 +238,10 @@ I am going to give you a tour:)<br>
 	<li><a href="https://github.com/nazaninsbr/Search">Search</a></li>
 	<li><a href="https://github.com/nazaninsbr/Sort">Sort</a></li>
 	<li><a href="https://github.com/nazaninsbr/Network-Programming">Network Programming</a></li>
+	<li><a href="https://github.com/nazaninsbr/What-is-TypeScript">What is TypeScript</a></li>
+	<li><a href="https://github.com/nazaninsbr/Queue">Queue</a></li>
+	<li><a href="https://github.com/nazaninsbr/Stack">Stack</a></li>
+	<li><a href="https://github.com/nazaninsbr/LinkedLists">Linked List</a></li>
 </ol>
 
 ## Organizations 
