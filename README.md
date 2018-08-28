@@ -59,6 +59,7 @@ I am going to give you a tour:)<br>
 	<li><a href="https://github.com/nazaninsbr/Queue">Queue</a></li>
 	<li><a href="https://github.com/nazaninsbr/Stack">Stack</a></li>
 	<li><a href="https://github.com/nazaninsbr/LinkedLists">Linked List</a></li>
+	<li><a href="https://github.com/nazaninsbr/Vectors">Vectors</a></li>
 	<li><a href="https://github.com/nazaninsbr/Django-React-Example">Django + React.js Example</a></li>
 </ul>
 
@@ -244,6 +245,7 @@ I am going to give you a tour:)<br>
 	<li><a href="https://github.com/nazaninsbr/Stack">Stack</a></li>
 	<li><a href="https://github.com/nazaninsbr/LinkedLists">Linked List</a></li>
 	<li><a href="https://github.com/nazaninsbr/Django-React-Example">Django + React.js Example</a></li>
+	<li><a href="https://github.com/nazaninsbr/Vectors">Vectors</a></li>
 </ol>
 
 ## Organizations 
