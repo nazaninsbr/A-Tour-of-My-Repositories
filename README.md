@@ -139,6 +139,7 @@ I am going to give you a tour:)<br>
 	<li><a href="https://github.com/nazaninsbr/Menger-Sponge-Fractal">Menger Sponge Fractal</a></li>
 	<li><a href="https://github.com/nazaninsbr/Terrain-Generation-with-Perlin-Noise">Terrain Generation with Perlin Noise</a></li>
 	<li><a href="https://github.com/nazaninsbr/Knots">Knots</a></li>
+	<li><a href="https://github.com/nazaninsbr/The-Lorenz-Attractor">The Lorenz Attractor</a></li>
 	<li><a href="https://github.com/nazaninsbr/Everything-Processing#challenge">Everything Processing</a></li>
 </ul>
 
@@ -269,6 +270,7 @@ I am going to give you a tour:)<br>
 	<li><a href="https://github.com/nazaninsbr/Menger-Sponge-Fractal">Menger Sponge Fractal</a></li>
 	<li><a href="https://github.com/nazaninsbr/Terrain-Generation-with-Perlin-Noise">Terrain Generation with Perlin Noise</a></li>
 	<li><a href="https://github.com/nazaninsbr/Knots">Knots</a></li>
+	<li><a href="https://github.com/nazaninsbr/The-Lorenz-Attractor">The Lorenz Attractor</a></li>
 </ol>
 
 ## Organizations 
