@@ -177,6 +177,7 @@ I am going to give you a tour:)<br>
 	<li><a href="https://github.com/nazaninsbr/Mini-Projects/tree/master">Mini Projects</a></li>
 	<li><a href="https://github.com/nazaninsbr/Social-Media-API-Bots-Starter">Social Media API-Bots Starter</a></li>
 	<li><a href="https://github.com/nazaninsbr/Getting-Started-with-Games">Getting Started with Games</a></li>
+	<li><a href="https://github.com/nazaninsbr/Fun-Mini-Projects">Fun-Mini-Projects</a></li>
 </ul>
 
 ### Course Repositories
@@ -283,6 +284,7 @@ I am going to give you a tour:)<br>
 	<li><a href="https://github.com/nazaninsbr/Vigenere-Cipher-Implementation">Vigenere Cipher Implementation</a></li>
 	<li><a href="https://github.com/nazaninsbr/Lexer-and-Parser">Lexer and Parser</a></li>
 	<li><a href="https://github.com/nazaninsbr/Intelligent-Systems-CA1">Intelligent Systems CA1</a></li>
+	<li><a href="https://github.com/nazaninsbr/Fun-Mini-Projects">Fun-Mini-Projects</a></li>
 </ol>
 
 ## Organizations 
