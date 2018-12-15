@@ -67,7 +67,7 @@ I am going to give you a tour:)<br>
 	<li><a href="https://github.com/nazaninsbr/Caesar-Cipher-Implementation">Caesar Cipher Implementation</a></li>
 	<li><a href="https://github.com/nazaninsbr/Vigenere-Cipher-Implementation">Vigenere Cipher Implementation</a></li>
 	<li><a href="https://github.com/nazaninsbr/Intelligent-Systems-CA1">Intelligent Systems CA1</a></li>
-	<li><a href="https://github.com/nazaninsbr/Neural-Network-Python">/Neural Network Python</a></li>
+	<li><a href="https://github.com/nazaninsbr/Neural-Network-Python">Neural Network Python</a></li>
 </ul>
 
 ### Java 
@@ -286,7 +286,7 @@ I am going to give you a tour:)<br>
 	<li><a href="https://github.com/nazaninsbr/Lexer-and-Parser">Lexer and Parser</a></li>
 	<li><a href="https://github.com/nazaninsbr/Intelligent-Systems-CA1">Intelligent Systems CA1</a></li>
 	<li><a href="https://github.com/nazaninsbr/Fun-Mini-Projects">Fun-Mini-Projects</a></li>
-	<li><a href="https://github.com/nazaninsbr/Neural-Network-Python">/Neural Network Python</a></li>
+	<li><a href="https://github.com/nazaninsbr/Neural-Network-Python">Neural Network Python</a></li>
 </ol>
 
 ## Organizations 
