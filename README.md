@@ -5,6 +5,7 @@ Here is a list of categories my repositories fit into:
 * [Web development](#web)
 * [App development](#app)
 * [Compiler](#compiler)
+* [Hardware](#hardware)
 * [Animations and Visualizations](#animation)
 * [Courses and School](#course)
 * [Super simple projects I added here because I didn't know where else to put them (What? I have a mac, 250 GB is so not enough!!)](#simple)
@@ -18,6 +19,7 @@ Here is a list of categories my repositories fit into:
   <li><a href="https://github.com/nazaninsbr/Lexer-and-Parser">Lexer and Parser</a></li>
   <li><a href="https://github.com/nazaninsbr/Symbol-Table-and-AST">Symbol Table and AST</a></li>
 </ol>
+<h3 id="hardware">Hardware</h3>
 <h3 id="animation">Animations and Visualizations</h3>
 <h3 id="course">Courses and School</h3>
 <h3 id="simple">Super simple projects I added here because I didn't know where else to put them (What? I have a mac, 250 GB is so not enough!!)</h3>
