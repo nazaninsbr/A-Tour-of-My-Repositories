@@ -15,6 +15,10 @@ Here is a list of categories my repositories fit into:
 <h3 id="web">Web development</h3>
 <h3 id="app">App development</h3>
 <h3 id="compiler">Compiler</h3>
+<ul>
+  <li href="https://github.com/nazaninsbr/Lexer-and-Parser">Lexer and Parser</li>
+  <li href="https://github.com/nazaninsbr/Symbol-Table-and-AST">Symbol Table and AST</li>
+</ul>
 <h3 id="animation">Animations and Visualizations</h3>
 <h3 id="course">Courses and School</h3>
 <h3 id="simple">Super simple projects I added here because I didn't know where else to put them (What? I have a mac, 250 GB is so not enough!!)</h3>
