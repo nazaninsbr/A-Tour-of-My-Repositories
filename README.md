@@ -8,7 +8,6 @@ Here is a list of categories my repositories fit into:
 * [Web development](#web)
 * [Animations and Visualizations](#animation)
 * [Courses and School](#course)
-* [App development](#app)
 * [Stuff that I really like that are probably not as cool as I think they are!](#cool)
 * [Super simple projects I added here because I didn't know where else to put them (What? I have a mac, 250 GB is so not enough!!)](#simple)
 
@@ -19,18 +18,19 @@ Here is a list of categories my repositories fit into:
 
 As part of our compiler course, we created a compiler (from start to the very end) for a made-up language called Smoola. 
 
-<ol>
-  <li><a href="https://github.com/nazaninsbr/Lexer-and-Parser">Lexer and Parser</a></li>
-  <li><a href="https://github.com/nazaninsbr/Symbol-Table-and-AST">Symbol Table and AST</a></li>
-  <li><a href="https://github.com/nazaninsbr/Code-Generation">Code-Generation</a></li>
-</ol>
+1. <a href="https://github.com/nazaninsbr/Lexer-and-Parser">Lexer and Parser</a>
+2. <a href="https://github.com/nazaninsbr/Symbol-Table-and-AST">Symbol Table and AST</a>
+3. <a href="https://github.com/nazaninsbr/Code-Generation">Code-Generation</a>
+
 <h3 id="hardware">Hardware</h3>
 <h3 id="web">Web development</h3>
 <h3 id="animation">Animations and Visualizations</h3>
 <h3 id="course">Courses and School</h3>
-<h3 id="app">App development</h3>
 <h3 id="cool">Stuff that I really like that are probably not as cool as I think they are!</h3>
 
 1. <a href="https://github.com/nazaninsbr/Photo-Mosaic">Photo Mosaic</a>: you input a target image and a number of other images and the code creates a photo mosaic for you, can you honestly tell me that isn't cool?! LOL
 
 <h3 id="simple">Super simple projects I added here because I didn't know where else to put them (What? I have a mac, 250 GB is so not enough!!)</h3>
+
+1. <a href="https://github.com/nazaninsbr/Graph">Graph</a>: creating and visualizing graphs 
+ 
