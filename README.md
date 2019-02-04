@@ -31,6 +31,6 @@ As part of our compiler course, we created a compiler (from start to the very en
 <h3 id="app">App development</h3>
 <h3 id="cool">Stuff that I really like that are probably not as cool as I think they are!</h3>
 
-1. [https://github.com/nazaninsbr/Photo-Mosaic](Photo Mosaic): you input a target image and a number of other images and the code creates a photo mosaic for you, can you honestly tell me that isn't cool?! LOL
+1. <a href="https://github.com/nazaninsbr/Photo-Mosaic">Photo Mosaic</a>: you input a target image and a number of other images and the code creates a photo mosaic for you, can you honestly tell me that isn't cool?! LOL
 
 <h3 id="simple">Super simple projects I added here because I didn't know where else to put them (What? I have a mac, 250 GB is so not enough!!)</h3>
