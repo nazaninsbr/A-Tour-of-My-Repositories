@@ -16,9 +16,13 @@ Here is a list of categories my repositories fit into:
 <h3 id="ds">Data Science and Data Analysis</h3>
 <h3 id="data">Data Structures</h3>
 <h3 id="compiler">Compiler</h3>
+
+As part of our compiler course, we created a compiler (from start to the very end) for a made-up language called Smoola. 
+
 <ol>
   <li><a href="https://github.com/nazaninsbr/Lexer-and-Parser">Lexer and Parser</a></li>
   <li><a href="https://github.com/nazaninsbr/Symbol-Table-and-AST">Symbol Table and AST</a></li>
+  <li><a href="https://github.com/nazaninsbr/Code-Generation">Code-Generation</a></li>
 </ol>
 <h3 id="hardware">Hardware</h3>
 <h3 id="web">Web development</h3>
