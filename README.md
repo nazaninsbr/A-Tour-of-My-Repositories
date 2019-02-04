@@ -31,7 +31,14 @@ As part of our compiler course, we created a compiler (from start to the very en
 <h3 id="web">Web development</h3>
 
 1. <a href="https://github.com/nazaninsbr/E-Commerce-Website">E-Commerce Website</a>: not really pretty but it works!
-2. 
+2. <a href=""></a>
+3. <a href="https://github.com/nazaninsbr/User-Management">User Management</a>: the back-end of a website which would allow you to add users, delete them, let them take leaves, search them using Spring Boot
+4. <a href="https://github.com/nazaninsbr/TicTacToe-with-React">TicTacToe with React</a>: the first thing I made when trying to learn react
+5. <a href="https://github.com/nazaninsbr/gs-consuming-rest">gs-consuming-rest</a>: trying to learn Spring framework
+6. <a href="https://github.com/nazaninsbr/Building-a-RESTful-Web-Service">Building a RESTful Web Service</a>: RESTful APIs with Spring framework
+7. <a href="https://github.com/nazaninsbr/RestAPI-with-Python-Flask">RestAPI with Python Flask</a>: REST API using Flask 
+8. 
+
 
 <h3 id="animation">Animations and Visualizations</h3>
 
@@ -45,12 +52,15 @@ As part of our compiler course, we created a compiler (from start to the very en
 
 <h3 id="course">Courses and School Work</h3>
 
-1. <a href="https://github.com/nazaninsbr/IT-Lab">IT Lab</a>: we learning (very little) about bench marking and created a telegram bot
+1. <a href="https://github.com/nazaninsbr/File-Sharing-System">File-Sharing System</a>: this idea that there are a number of mini-servers connected to a main server, when they are connecting they inform the main server of the files they have, then when the client connects to the main server and asks for some file the main server can connect it to the mini-server that has that file
+2. <a href="https://github.com/nazaninsbr/IT-Lab">IT Lab</a>: we learning (very little) about bench marking and created a telegram bot
 
 <h3 id="cool">Stuff that I really like that are probably not as cool as I think they are!</h3>
 
 1. <a href="https://github.com/nazaninsbr/Photo-Mosaic">Photo Mosaic</a>: you input a target image and a number of other images and the code creates a photo mosaic for you, can you honestly tell me that isn't cool?! LOL
 2. <a href="https://github.com/nazaninsbr/Vigenere-Cipher-Implementation">Vigenere Cipher Implementation</a>: this is quite a simple cipher, but I felt very much like a hacker when I coded it:D
+3. <a href="https://github.com/nazaninsbr/2048">2048</a>: I think this was the very first repository I forked and worked, so it's a little nostalgic
+4. 
 
 <h3 id="simple">Super simple projects I added here because I didn't know where else to put them (What? I have a mac, 250 GB is so not enough!!)</h3>
 
