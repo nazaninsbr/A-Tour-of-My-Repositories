@@ -52,8 +52,10 @@ As part of our compiler course, we created a compiler (from start to the very en
   <li><a href="https://github.com/nazaninsbr/Web-Development">Web Development</a>: a polling website, a login page, a blog, basically my start in web</li>
   <li><a href="https://github.com/nazaninsbr/User-Management">User Management</a>: the back-end of a website which would allow you to add users, delete them, let them take leaves, search them using Spring Boot</li>
   <li><a href="https://github.com/nazaninsbr/TicTacToe-with-React">TicTacToe with React</a>: the first thing I made when trying to learn react</li>
+  <li><a href="https://github.com/nazaninsbr/React-TodoList">React Todo-list</a></li>
   <li><a href="https://github.com/nazaninsbr/gs-consuming-rest">gs-consuming-rest</a>: trying to learn Spring framework</li>
   <li><a href="https://github.com/nazaninsbr/Building-a-RESTful-Web-Service">Building a RESTful Web Service</a>: RESTful APIs with Spring framework</li>
+  <li><a href="https://github.com/nazaninsbr/gs-scheduling-tasks">gs-scheduling-tasks</a>: more Spring framework practice</li>
   <li><a href="https://github.com/nazaninsbr/RestAPI-with-Python-Flask">RestAPI with Python Flask</a>: REST API using Flask </li>
   <li><a href="https://github.com/nazaninsbr/Static-Website">Static Website</a>: learning HTML and CSS</li>
   <li><a href="https://github.com/nazaninsbr/Example-Website">Example Website</a>: more HTML and CSS</li>
