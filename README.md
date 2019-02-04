@@ -33,7 +33,7 @@ As part of our compiler course, we created a compiler (from start to the very en
 
 <h3 id="hardware">Hardware</h3>
 
-1. 
+1. < a href="https://github.com/NegarMirgati/CALAB">CALAB</a>: a MIPS CPU that has SRAM, cache, hazard detection, forwarding and ... (a shared work with Negar Mirgati)
 2. <a href="https://github.com/nazaninsbr/Hardware-Design">Hardware Design</a>: single cycle CPU, Adders, MUXs and other hardware modules
 
 <h3 id="web">Web development</h3>
@@ -41,13 +41,16 @@ As part of our compiler course, we created a compiler (from start to the very en
 1. 
 2. <a href="https://github.com/nazaninsbr/F1-Front-Final">F1 Front</a>: the first website I made that actually looked nice
 3. <a href="https://github.com/nazaninsbr/E-Commerce-Website">E-Commerce Website</a>: not really pretty but it works!
-2. <a href=""></a>
-3. <a href="https://github.com/nazaninsbr/User-Management">User Management</a>: the back-end of a website which would allow you to add users, delete them, let them take leaves, search them using Spring Boot
-4. <a href="https://github.com/nazaninsbr/TicTacToe-with-React">TicTacToe with React</a>: the first thing I made when trying to learn react
-5. <a href="https://github.com/nazaninsbr/gs-consuming-rest">gs-consuming-rest</a>: trying to learn Spring framework
-6. <a href="https://github.com/nazaninsbr/Building-a-RESTful-Web-Service">Building a RESTful Web Service</a>: RESTful APIs with Spring framework
-7. <a href="https://github.com/nazaninsbr/RestAPI-with-Python-Flask">RestAPI with Python Flask</a>: REST API using Flask 
-8. 
+4. <a href="https://github.com/nazaninsbr/Web-Development">Web Development</a>: a polling website, a login page, a blog, basically my start in web
+5. <a href="https://github.com/nazaninsbr/User-Management">User Management</a>: the back-end of a website which would allow you to add users, delete them, let them take leaves, search them using Spring Boot
+6. <a href="https://github.com/nazaninsbr/TicTacToe-with-React">TicTacToe with React</a>: the first thing I made when trying to learn react
+7. <a href="https://github.com/nazaninsbr/gs-consuming-rest">gs-consuming-rest</a>: trying to learn Spring framework
+8. <a href="https://github.com/nazaninsbr/Building-a-RESTful-Web-Service">Building a RESTful Web Service</a>: RESTful APIs with Spring framework
+9. <a href="https://github.com/nazaninsbr/RestAPI-with-Python-Flask">RestAPI with Python Flask</a>: REST API using Flask 
+10. <a href="https://github.com/nazaninsbr/Static-Website">Static Website</a>: learning HTML and CSS
+11. <a href="https://github.com/nazaninsbr/Example-Website">Example Website</a>: more HTML and CSS
+12. <a href="https://github.com/nazaninsbr/50-50-Personal-Website">50-50 Personal Website</a>: and even more!
+13. <a href="https://github.com/nazaninsbr/angular-2-template">angular-2 template</a>: learning Angular 2
 
 
 <h3 id="animation">Animations and Visualizations</h3>
@@ -59,6 +62,8 @@ As part of our compiler course, we created a compiler (from start to the very en
 5. <a href="https://github.com/nazaninsbr/Barnsley-Fern">Barnsley Fern</a>: I guess a leaf is the best way I can explain it. 
 6. <a href="https://github.com/nazaninsbr/Animated-Countdown">Animated Countdown</a>: an animated countdown using JavaScript
 7. <a href="https://github.com/nazaninsbr/Snowy-Background">Snowy background</a>: another JavaScript animation
+8. <a href="https://github.com/nazaninsbr/Turtle-Drawings">Turtle Drawings</a>
+9. <a href="https://github.com/nazaninsbr/Everything-Processing">Everything Processing</a>
 
 <h3 id="course">Courses and School Work</h3>
 
@@ -79,4 +84,5 @@ As part of our compiler course, we created a compiler (from start to the very en
 2. <a href="https://github.com/nazaninsbr/Graph">Graph</a>: creating and visualizing graphs 
 3. <a href="https://github.com/nazaninsbr/Caesar-Cipher-Implementation">Caesar Cipher Implementation</a>: the name says it all
 4. <a href="https://github.com/nazaninsbr/Monty-Hall-Simulation">Monty Hall Simulation</a>: that really famous statistics problem? Anyone?
+5. <a href="https://github.com/nazaninsbr/Chat-App">Char App</a>: I think someone said 'hey have you heard of Elixir?' and this was created!
 
