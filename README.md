@@ -1,4 +1,4 @@
-Hello, welcome to my GitHub page!! Now you might be thinking, WTF is going on here? Well, if you do visit [https://github.com/nazaninsbr](my GitHub profile) you will see quite a number of repositories and you might get confused, so I'm here to help you out:D
+Hello, welcome to my GitHub page!! Now you might be thinking, WTF is going on here? Well, if you do visit <a href="https://github.com/nazaninsbr">my GitHub profile</a> you will see quite a number of repositories and you might get confused, so I'm here to help you out:D
 Here is a list of categories my repositories fit into:
 * [Artificial Intelligence and ML](#ai)
 * [Data Science and Data Analysis](#ds)
