@@ -29,7 +29,20 @@ As part of our compiler course, we created a compiler (from start to the very en
 
 <h3 id="hardware">Hardware</h3>
 <h3 id="web">Web development</h3>
+
+1. <a href="https://github.com/nazaninsbr/E-Commerce-Website">E-Commerce Website</a>: not really pretty but it works!
+2. 
+
 <h3 id="animation">Animations and Visualizations</h3>
+
+1. <a href="https://github.com/nazaninsbr/Menger-Sponge-Fractal">Menger Sponge Fractal</a>: by far the coolest visualization I've learned to create. 
+2. <a href="https://github.com/nazaninsbr/Terrain-Generation-with-Perlin-Noise">Terrain Generation with Perlin Noise</a>: I'm sure you've seen one of these before, you just might not know what they are called. 
+3. <a href="https://github.com/nazaninsbr/The-Lorenz-Attractor">The Lorenz Attractor</a>: this one, you probably haven't seen. 
+4. <a href="https://github.com/nazaninsbr/Knots">Knots</a>: only the nicest kind you've ever seen!
+5. <a href="https://github.com/nazaninsbr/Barnsley-Fern">Barnsley Fern</a>: I guess a leaf is the best way I can explain it. 
+6. <a href="https://github.com/nazaninsbr/Animated-Countdown">Animated Countdown</a>: an animated countdown using JavaScript
+7. <a href="https://github.com/nazaninsbr/Snowy-Background">Snowy background</a>: another JavaScript animation
+
 <h3 id="course">Courses and School Work</h3>
 
 1. <a href="https://github.com/nazaninsbr/IT-Lab">IT Lab</a>: we learning (very little) about bench marking and created a telegram bot
