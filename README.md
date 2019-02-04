@@ -1,4 +1,4 @@
-Hello, welcome to my GitHub page!! Now you might be thinking, WTF is going on here? Well, if you do visit my GitHub you will see quite a number of repositories and you might get confused, so I'm here to help you out:D
+Hello, welcome to my GitHub page!! Now you might be thinking, WTF is going on here? Well, if you do visit [https://github.com/nazaninsbr](my GitHub profile) you will see quite a number of repositories and you might get confused, so I'm here to help you out:D
 Here is a list of categories my repositories fit into:
 * [Artificial Intelligence and ML](#ai)
 * [Data Science and Data Analysis](#ds)
@@ -29,5 +29,8 @@ As part of our compiler course, we created a compiler (from start to the very en
 <h3 id="animation">Animations and Visualizations</h3>
 <h3 id="course">Courses and School</h3>
 <h3 id="app">App development</h3>
-<h3 id="cool">[Stuff that I really like that are probably not as cool as I think they are!</h3>
+<h3 id="cool">Stuff that I really like that are probably not as cool as I think they are!</h3>
+
+1. [https://github.com/nazaninsbr/Photo-Mosaic](Photo Mosaic): you input a target image and a number of other images and the code creates a photo mosaic for you, can you honestly tell me that isn't cool?! LOL
+
 <h3 id="simple">Super simple projects I added here because I didn't know where else to put them (What? I have a mac, 250 GB is so not enough!!)</h3>
