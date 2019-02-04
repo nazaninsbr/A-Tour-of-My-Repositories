@@ -15,10 +15,14 @@ Here is a list of categories my repositories fit into:
 
 1. <a href="https://github.com/nazaninsbr/Intellignet-Taxi">Intellignet-Taxi</a>: solving the taxi-v2 problem using q-learning and sarsa. 
 2. <a href="https://github.com/nazaninsbr/Intelligent-Systems-CA3">Intelligent Systems CA3</a>: k-means and hierarchical clustering + PCA
-3. 
+3. <a href="https://github.com/nazaninsbr/Genetic-Algorithm">Genetic Algorithm</a>: a genetic algorithm to solve the class scheduling problem in a university 
+4. <a href="https://github.com/nazaninsbr/Search-Agent">Search Agent</a>: an agent that would perform search algorithms such as DFS, A*, Iterative DFS and BFS on a maze
 
 <h3 id="ds">Data Science and Data Analysis</h3>
 <h3 id="data">Data Structures</h3>
+
+2. <a href="https://github.com/nazaninsbr/Algorithms-DataStructure">Algorithms & Data Structures</a>
+
 <h3 id="compiler">Compiler</h3>
 
 As part of our compiler course, we created a compiler (from start to the very end) for a made-up language called Smoola. 
@@ -28,9 +32,15 @@ As part of our compiler course, we created a compiler (from start to the very en
 3. <a href="https://github.com/nazaninsbr/Code-Generation">Code-Generation</a>
 
 <h3 id="hardware">Hardware</h3>
+
+1. 
+2. <a href="https://github.com/nazaninsbr/Hardware-Design">Hardware Design</a>: single cycle CPU, Adders, MUXs and other hardware modules
+
 <h3 id="web">Web development</h3>
 
-1. <a href="https://github.com/nazaninsbr/E-Commerce-Website">E-Commerce Website</a>: not really pretty but it works!
+1. 
+2. <a href="https://github.com/nazaninsbr/F1-Front-Final">F1 Front</a>: the first website I made that actually looked nice
+3. <a href="https://github.com/nazaninsbr/E-Commerce-Website">E-Commerce Website</a>: not really pretty but it works!
 2. <a href=""></a>
 3. <a href="https://github.com/nazaninsbr/User-Management">User Management</a>: the back-end of a website which would allow you to add users, delete them, let them take leaves, search them using Spring Boot
 4. <a href="https://github.com/nazaninsbr/TicTacToe-with-React">TicTacToe with React</a>: the first thing I made when trying to learn react
@@ -54,17 +64,19 @@ As part of our compiler course, we created a compiler (from start to the very en
 
 1. <a href="https://github.com/nazaninsbr/File-Sharing-System">File-Sharing System</a>: this idea that there are a number of mini-servers connected to a main server, when they are connecting they inform the main server of the files they have, then when the client connects to the main server and asks for some file the main server can connect it to the mini-server that has that file
 2. <a href="https://github.com/nazaninsbr/IT-Lab">IT Lab</a>: we learning (very little) about bench marking and created a telegram bot
+. <a href="https://github.com/nazaninsbr/UT-Semester5">UT Semester 5</a>: some of the course work for the courses I had in my fifth semester
 
 <h3 id="cool">Stuff that I really like that are probably not as cool as I think they are!</h3>
 
 1. <a href="https://github.com/nazaninsbr/Photo-Mosaic">Photo Mosaic</a>: you input a target image and a number of other images and the code creates a photo mosaic for you, can you honestly tell me that isn't cool?! LOL
 2. <a href="https://github.com/nazaninsbr/Vigenere-Cipher-Implementation">Vigenere Cipher Implementation</a>: this is quite a simple cipher, but I felt very much like a hacker when I coded it:D
 3. <a href="https://github.com/nazaninsbr/2048">2048</a>: I think this was the very first repository I forked and worked, so it's a little nostalgic
-4. 
+4. <a href="https://github.com/nazaninsbr/Mini-Projects">Mini Projects</a>: web crawler, profanity checker, paint app, text sender, you name it, it's in there
 
 <h3 id="simple">Super simple projects I added here because I didn't know where else to put them (What? I have a mac, 250 GB is so not enough!!)</h3>
 
-1. <a href="https://github.com/nazaninsbr/Graph">Graph</a>: creating and visualizing graphs 
-2. <a href="https://github.com/nazaninsbr/Caesar-Cipher-Implementation">Caesar Cipher Implementation</a>: the name says it all
-3. <a href="https://github.com/nazaninsbr/Monty-Hall-Simulation">Monty Hall Simulation</a>: that really famous statistics problem? Anyone?
+1. <a href="https://github.com/nazaninsbr/Introduction-to-Selection">Introduction to Selection</a>: the codes that I wrote when I  started learning some programming languages 
+2. <a href="https://github.com/nazaninsbr/Graph">Graph</a>: creating and visualizing graphs 
+3. <a href="https://github.com/nazaninsbr/Caesar-Cipher-Implementation">Caesar Cipher Implementation</a>: the name says it all
+4. <a href="https://github.com/nazaninsbr/Monty-Hall-Simulation">Monty Hall Simulation</a>: that really famous statistics problem? Anyone?
 
