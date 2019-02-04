@@ -13,10 +13,12 @@ Here is a list of categories my repositories fit into:
 
 <h3 id="ai">Artificial Intelligence and ML</h3>
 
-1. <a href="https://github.com/nazaninsbr/Intellignet-Taxi">Intellignet-Taxi</a>: solving the taxi-v2 problem using q-learning and sarsa. 
-2. <a href="https://github.com/nazaninsbr/Intelligent-Systems-CA3">Intelligent Systems CA3</a>: k-means and hierarchical clustering + PCA
-3. <a href="https://github.com/nazaninsbr/Genetic-Algorithm">Genetic Algorithm</a>: a genetic algorithm to solve the class scheduling problem in a university 
-4. <a href="https://github.com/nazaninsbr/Search-Agent">Search Agent</a>: an agent that would perform search algorithms such as DFS, A*, Iterative DFS and BFS on a maze
+<ol>
+  <li><a href="https://github.com/nazaninsbr/Intellignet-Taxi">Intellignet-Taxi</a>: solving the taxi-v2 problem using q-learning and sarsa.</li>
+  <li><a href="https://github.com/nazaninsbr/Intelligent-Systems-CA3">Intelligent Systems CA3</a>: k-means and hierarchical clustering + PCA</li>
+  <li><a href="https://github.com/nazaninsbr/Genetic-Algorithm">Genetic Algorithm</a>: a genetic algorithm to solve the class scheduling problem in a university </li>
+  <li><a href="https://github.com/nazaninsbr/Search-Agent">Search Agent</a>: an agent that would perform search algorithms such as DFS, A*, Iterative DFS and BFS on a maze</li>
+</ol>
 
 <h3 id="ds">Data Science and Data Analysis</h3>
 <h3 id="data">Data Structures</h3>
@@ -29,14 +31,16 @@ Here is a list of categories my repositories fit into:
 
 As part of our compiler course, we created a compiler (from start to the very end) for a made-up language called Smoola. 
 
-1. <a href="https://github.com/nazaninsbr/Lexer-and-Parser">Lexer and Parser</a>
-2. <a href="https://github.com/nazaninsbr/Symbol-Table-and-AST">Symbol Table and AST</a>
-3. <a href="https://github.com/nazaninsbr/Code-Generation">Code-Generation</a>
+<ol>
+  <li><a href="https://github.com/nazaninsbr/Lexer-and-Parser">Lexer and Parser</a></li>
+  <li><a href="https://github.com/nazaninsbr/Symbol-Table-and-AST">Symbol Table and AST</a></li>
+  <li><a href="https://github.com/nazaninsbr/Code-Generation">Code-Generation</a></li>
+</ol>
 
 <h3 id="hardware">Hardware</h3>
 
 <ol>
-  <li>< a href="https://github.com/NegarMirgati/CALAB">CALAB</a>: a MIPS CPU that has SRAM, cache, hazard detection, forwarding and ... (a shared work with Negar Mirgati)</li>
+  <li><a href="https://github.com/NegarMirgati/CALAB">CALAB</a>: a MIPS CPU that has SRAM, cache, hazard detection, forwarding and ... (a shared work with Negar Mirgati)</li>
   <li><a href="https://github.com/nazaninsbr/Hardware-Design">Hardware Design</a>: single cycle CPU, Adders, MUXs and other hardware modules></li>
 </ol>
 
