@@ -37,7 +37,7 @@ As part of our compiler course, we created a compiler (from start to the very en
 
 <ol>
   <li>< a href="https://github.com/NegarMirgati/CALAB">CALAB</a>: a MIPS CPU that has SRAM, cache, hazard detection, forwarding and ... (a shared work with Negar Mirgati)</li>
-  <li<a href="https://github.com/nazaninsbr/Hardware-Design">Hardware Design</a>: single cycle CPU, Adders, MUXs and other hardware modules></li>
+  <li><a href="https://github.com/nazaninsbr/Hardware-Design">Hardware Design</a>: single cycle CPU, Adders, MUXs and other hardware modules></li>
 </ol>
 
 <h3 id="web">Web development</h3>
