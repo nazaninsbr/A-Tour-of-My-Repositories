@@ -21,7 +21,9 @@ Here is a list of categories my repositories fit into:
 <h3 id="ds">Data Science and Data Analysis</h3>
 <h3 id="data">Data Structures</h3>
 
-2. <a href="https://github.com/nazaninsbr/Algorithms-DataStructure">Algorithms & Data Structures</a>
+<ol>
+  <li><a href="https://github.com/nazaninsbr/Algorithms-DataStructure">Algorithms & Data Structures</a></li>
+</ol> 
 
 <h3 id="compiler">Compiler</h3>
 
@@ -33,12 +35,16 @@ As part of our compiler course, we created a compiler (from start to the very en
 
 <h3 id="hardware">Hardware</h3>
 
-1. < a href="https://github.com/NegarMirgati/CALAB">CALAB</a>: a MIPS CPU that has SRAM, cache, hazard detection, forwarding and ... (a shared work with Negar Mirgati)
-2. <a href="https://github.com/nazaninsbr/Hardware-Design">Hardware Design</a>: single cycle CPU, Adders, MUXs and other hardware modules
+<ol>
+  <li>< a href="https://github.com/NegarMirgati/CALAB">CALAB</a>: a MIPS CPU that has SRAM, cache, hazard detection, forwarding and ... (a shared work with Negar Mirgati)</li>
+  <li<a href="https://github.com/nazaninsbr/Hardware-Design">Hardware Design</a>: single cycle CPU, Adders, MUXs and other hardware modules></li>
+</ol>
 
 <h3 id="web">Web development</h3>
 
-1. 
+<ol>
+  <li></li>
+</ol>
 2. <a href="https://github.com/nazaninsbr/F1-Front-Final">F1 Front</a>: the first website I made that actually looked nice
 3. <a href="https://github.com/nazaninsbr/E-Commerce-Website">E-Commerce Website</a>: not really pretty but it works!
 4. <a href="https://github.com/nazaninsbr/Web-Development">Web Development</a>: a polling website, a login page, a blog, basically my start in web
@@ -68,8 +74,9 @@ As part of our compiler course, we created a compiler (from start to the very en
 <h3 id="course">Courses and School Work</h3>
 
 1. <a href="https://github.com/nazaninsbr/File-Sharing-System">File-Sharing System</a>: this idea that there are a number of mini-servers connected to a main server, when they are connecting they inform the main server of the files they have, then when the client connects to the main server and asks for some file the main server can connect it to the mini-server that has that file
-2. <a href="https://github.com/nazaninsbr/IT-Lab">IT Lab</a>: we learning (very little) about bench marking and created a telegram bot
-. <a href="https://github.com/nazaninsbr/UT-Semester5">UT Semester 5</a>: some of the course work for the courses I had in my fifth semester
+2. <a href="https://github.com/nazaninsbr/OS-UT">OS</a>: my Operating Systems course work
+3. <a href="https://github.com/nazaninsbr/IT-Lab">IT Lab</a>: we learning (very little) about bench marking and created a telegram bot
+4. <a href="https://github.com/nazaninsbr/UT-Semester5">UT Semester 5</a>: some of the course work for the courses I had in my fifth semester
 
 <h3 id="cool">Stuff that I really like that are probably not as cool as I think they are!</h3>
 
@@ -85,4 +92,4 @@ As part of our compiler course, we created a compiler (from start to the very en
 3. <a href="https://github.com/nazaninsbr/Caesar-Cipher-Implementation">Caesar Cipher Implementation</a>: the name says it all
 4. <a href="https://github.com/nazaninsbr/Monty-Hall-Simulation">Monty Hall Simulation</a>: that really famous statistics problem? Anyone?
 5. <a href="https://github.com/nazaninsbr/Chat-App">Char App</a>: I think someone said 'hey have you heard of Elixir?' and this was created!
-
+6. <a href="https://github.com/nazaninsbr/Git-Commands">Git Commands</a>: what can I say? I'm forgetful 
