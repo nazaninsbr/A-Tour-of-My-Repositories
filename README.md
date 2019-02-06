@@ -1,5 +1,6 @@
 Hello, welcome to my GitHub page!! Now you might be thinking, WTF is going on here? Well, if you do visit <a href="https://github.com/nazaninsbr">my GitHub profile</a> you will see quite a number of repositories and you might get confused, so I'm here to help you out:D
 Here is a list of categories my repositories fit into:
+* [My Blog](https://nazaninsbr.github.io/Lets-Write/)
 * [Artificial Intelligence and ML](#ai)
 * [Data Science and Data Analysis](#ds)
 * [Data Structures](#data)
@@ -11,7 +12,7 @@ Here is a list of categories my repositories fit into:
 * [Stuff that I really like that are probably not as cool as I think they are!](#cool)
 * [Super simple projects I added here because I didn't know where else to put them (What? I have a mac, 250 GB is so not enough!!)](#simple)
 
-<li><a href=""></a></li>
+<!--<li><a href=""></a></li>-->
 <h3 id="ai">Artificial Intelligence and ML</h3>
 
 <ol>
