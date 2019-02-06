@@ -21,6 +21,15 @@ Here is a list of categories my repositories fit into:
 </ol>
 
 <h3 id="ds">Data Science and Data Analysis</h3>
+
+<ol>
+    <li><a href="https://github.com/nazaninsbr/GitHub-Crawler">GitHub Crawler</a></li>
+    <li><a href="https://github.com/nazaninsbr/IMDB-Crawler">IMDB Crawler</a></li>
+    <li><a href="https://github.com/nazaninsbr/Twitter-Crawler">Twitter Crawler</a></li>
+    <li><a href="https://github.com/nazaninsbr/Wikipedia-Crawler">Wikipedia Crawler</a></li>
+    <li><a href="https://github.com/nazaninsbr/Iris-Dataset">Iris Dataset</a></li>
+</ol>
+
 <h3 id="data">Data Structures</h3>
 
 <ol>
@@ -91,11 +100,13 @@ As part of our compiler course, we created a compiler (from start to the very en
   <li><a href="https://github.com/nazaninsbr/Vigenere-Cipher-Implementation">Vigenere Cipher Implementation</a>: this is quite a simple cipher, but I felt very much like a hacker when I coded it:D</li>
   <li><a href="https://github.com/nazaninsbr/2048">2048</a>: I think this was the very first repository I forked and worked, so it's a little nostalgic</li>
   <li><a href="https://github.com/nazaninsbr/Mini-Projects">Mini Projects</a>: web crawler, profanity checker, paint app, text sender, you name it, it's in there</li>
+  <li><a href="https://github.com/nazaninsbr/Getting-Started-with-Games">Getting Started with Games</a>: space invaders, snake and tennis</li>
 </ol>  
 
 <h3 id="simple">Super simple projects I added here because I didn't know where else to put them (What? I have a mac, 250 GB is so not enough!!)</h3>
 
 <ol>
+  <li><a href="https://github.com/nazaninsbr/Graph-Display-App">Graph Display App</a></li>
   <li><a href="https://github.com/nazaninsbr/Introduction-to-Selection">Introduction to Selection</a>: the codes that I wrote when I  started learning some programming languages </li>
   <li><a href="https://github.com/nazaninsbr/Graph">Graph</a>: creating and visualizing graphs </li>
   <li><a href="https://github.com/nazaninsbr/Caesar-Cipher-Implementation">Caesar Cipher Implementation</a>: the name says it all</li>
