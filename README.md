@@ -21,6 +21,10 @@ Here is a list of categories my repositories fit into:
   <li><a href="https://github.com/nazaninsbr/Intelligent-Systems-CA3">Intelligent Systems CA3</a>: k-means and hierarchical clustering + PCA</li>
   <li><a href="https://github.com/nazaninsbr/Genetic-Algorithm">Genetic Algorithm</a>: a genetic algorithm to solve the class scheduling problem in a university </li>
   <li><a href="https://github.com/nazaninsbr/Search-Agent">Search Agent</a>: an agent that would perform search algorithms such as DFS, A*, Iterative DFS and BFS on a maze</li>
+  <li><a href="https://github.com/nazaninsbr/Regression">Regression</a></li>
+  <li><a href="https://github.com/nazaninsbr/Neural-Network">Neural Network</a>: coded using VHDL and matlab </li>
+  <li><a href="https://github.com/nazaninsbr/Clustering">Clustering</a></li>
+  <li><a href="https://github.com/nazaninsbr/SVM">SVM</a></li>
   <li><a href="https://github.com/nazaninsbr/Intro-to-TensorflowJS">Intro to tensorflow.js</a></li>
   <li><a href="https://github.com/nazaninsbr/Learn-and-use-ML">Learn and use ML</a></li>
 </ol>
@@ -32,6 +36,7 @@ Here is a list of categories my repositories fit into:
     <li><a href="https://github.com/nazaninsbr/IMDB-Crawler">IMDB Crawler</a></li>
     <li><a href="https://github.com/nazaninsbr/Twitter-Crawler">Twitter Crawler</a></li>
     <li><a href="https://github.com/nazaninsbr/Wikipedia-Crawler">Wikipedia Crawler</a></li>
+    <li><a href="https://github.com/nazaninsbr/Social-Media-API-Bots-Starter">Social Media API-Bots Starter</a>: Getting started with different social media APIs</li>
     <li><a href="https://github.com/nazaninsbr/Iris-Dataset">Iris Dataset</a></li>
 </ol>
 
@@ -82,6 +87,8 @@ As part of our compiler course, we created a compiler (from start to the very en
   <li><a href="https://github.com/nazaninsbr/Example-Website">Example Website</a>: more HTML and CSS</li>
   <li><a href="https://github.com/nazaninsbr/50-50-Personal-Website">50-50 Personal Website</a>: and even more!</li>
   <li><a href="https://github.com/nazaninsbr/angular-2-template">angular-2 template</a>: learning Angular 2</li>
+  <li><a href="https://github.com/nazaninsbr/Intro-to-Firebase">Intro to Firebase</a></li>
+  <li><a href="https://github.com/nazaninsbr/react-firebase-todo-app">react + firebase todo-app</a></li>
 </ol>
 
 <h3 id="animation">Animations and Visualizations</h3>
@@ -92,6 +99,7 @@ As part of our compiler course, we created a compiler (from start to the very en
   <li><a href="https://github.com/nazaninsbr/The-Lorenz-Attractor">The Lorenz Attractor</a>: this one, you probably haven't seen.</li>
   <li><a href="https://github.com/nazaninsbr/Knots">Knots</a>: only the nicest kind you've ever seen!</li>
   <li><a href="https://github.com/nazaninsbr/Barnsley-Fern">Barnsley Fern</a>: I guess a leaf is the best way I can explain it. </li>
+  <li><a href="https://github.com/nazaninsbr/Matplotlib-Examples">Matplotlib Examples</a></li>
   <li><a href="https://github.com/nazaninsbr/Animated-Countdown">Animated Countdown</a>: an animated countdown using JavaScript</li>
   <li><a href="https://github.com/nazaninsbr/Snowy-Background">Snowy background</a>: another JavaScript animation</li>
   <li><a href="https://github.com/nazaninsbr/Turtle-Drawings">Turtle Drawings</a></li>
@@ -117,6 +125,7 @@ As part of our compiler course, we created a compiler (from start to the very en
   <li><a href="https://github.com/nazaninsbr/2048">2048</a>: I think this was the very first repository I forked and worked, so it's a little nostalgic</li>
   <li><a href="https://github.com/nazaninsbr/Mini-Projects">Mini Projects</a>: web crawler, profanity checker, paint app, text sender, you name it, it's in there</li>
   <li><a href="https://github.com/nazaninsbr/Getting-Started-with-Games">Getting Started with Games</a>: space invaders, snake and tennis</li>
+  <li><a href="https://github.com/nazaninsbr/first-contributions">first-contribution</a>: this is an opensource project that helps you make your very first contribution to a project, it felt good:)</li>
 </ol>  
 
 <h3 id="simple">Super simple projects I added here because I didn't know where else to put them (What? I have a mac, 250 GB is so not enough!!)</h3>
@@ -139,4 +148,7 @@ As part of our compiler course, we created a compiler (from start to the very en
   <li><a href="https://github.com/nazaninsbr/Network-Programming">Network Programming (python)</a></li>
   <li><a href="https://github.com/nazaninsbr/superhero-dataset-rethinkdb-tutorial">superhero dataset rethinkdb tutorial</a></li>
   <li><a href="https://github.com/nazaninsbr/Python-Multithreading-Multiprocessing">Python Multithreading Multiprocessing</a></li>
+  <li><a href="https://github.com/nazaninsbr/py-lists-with-maps-data-science-intro-000">py-lists-with-maps-data-science-intro-000</a>: I read somewhere this was what kode with klossy students use and I wanted to test it</li>
+  <li><a href="https://github.com/nazaninsbr/python-lists-lab-data-science-intro-000">python-lists-lab-data-science-intro-000</a></li>
+  <li><a href="https://github.com/nazaninsbr/python-variables-readme-data-science-intro-000">python-variables-readme-data-science-intro-000</a></li>
 </ol>
