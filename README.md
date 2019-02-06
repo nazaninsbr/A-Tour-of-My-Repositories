@@ -22,6 +22,7 @@ Here is a list of categories my repositories fit into:
   <li><a href="https://github.com/nazaninsbr/Genetic-Algorithm">Genetic Algorithm</a>: a genetic algorithm to solve the class scheduling problem in a university </li>
   <li><a href="https://github.com/nazaninsbr/Search-Agent">Search Agent</a>: an agent that would perform search algorithms such as DFS, A*, Iterative DFS and BFS on a maze</li>
   <li><a href="https://github.com/nazaninsbr/Intro-to-TensorflowJS">Intro to tensorflow.js</a></li>
+  <li><a href="https://github.com/nazaninsbr/Learn-and-use-ML">Learn and use ML</a></li>
 </ol>
 
 <h3 id="ds">Data Science and Data Analysis</h3>
@@ -38,6 +39,8 @@ Here is a list of categories my repositories fit into:
 
 <ol>
   <li><a href="https://github.com/nazaninsbr/Algorithms-DataStructure">Algorithms & Data Structures</a></li>
+  <li><a href="https://github.com/nazaninsbr/Sort">Sort</a></li>
+  <li><a href="https://github.com/nazaninsbr/Search">Search</a></li>
 </ol> 
 
 <h3 id="compiler">Compiler</h3>
@@ -60,11 +63,15 @@ As part of our compiler course, we created a compiler (from start to the very en
 <h3 id="web">Web development</h3>
 
 <ol>
+  <li><a href="https://github.com/nazaninsbr/Simple-HR-System">Simple HR System</a>: you can reserve food, ask for time off, chat and announce stuff</li>
+  <li><a href="https://github.com/nazaninsbr/Spring-boot-Angular-Todo">Spring boot + Angular Todo</a></li>
+  <li><a href="https://github.com/nazaninsbr/Chat-Application">Chat Application</a></li>
   <li><a href="https://github.com/nazaninsbr/F1-Front-Final">F1 Front</a>: the first website I made that actually looked nice</li>
    <li><a href="https://github.com/nazaninsbr/Personal-Website">Personal Website</a>: a website that has a about, home and blog section</li>
   <li><a href="https://github.com/nazaninsbr/E-Commerce-Website">E-Commerce Website</a>: not really pretty but it works!</li>
   <li><a href="https://github.com/nazaninsbr/Web-Development">Web Development</a>: a polling website, a login page, a blog, basically my start in web</li>
   <li><a href="https://github.com/nazaninsbr/User-Management">User Management</a>: the back-end of a website which would allow you to add users, delete them, let them take leaves, search them using Spring Boot</li>
+  <li><a href="https://github.com/nazaninsbr/Django-ChatJS-Dashboard">Django + Chat.js Dashboard</a></li>
   <li><a href="https://github.com/nazaninsbr/TicTacToe-with-React">TicTacToe with React</a>: the first thing I made when trying to learn react</li>
   <li><a href="https://github.com/nazaninsbr/React-TodoList">React Todo-list</a></li>
   <li><a href="https://github.com/nazaninsbr/gs-consuming-rest">gs-consuming-rest</a>: trying to learn Spring framework</li>
