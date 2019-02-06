@@ -15,7 +15,9 @@ Here is a list of categories my repositories fit into:
 <h3 id="ai">Artificial Intelligence and ML</h3>
 
 <ol>
+  <li><a href="https://github.com/nazaninsbr/Neural-Network-Python">Neural Network (python)</a>: a neural network coded from scratch</li>
   <li><a href="https://github.com/nazaninsbr/Intellignet-Taxi">Intellignet-Taxi</a>: solving the taxi-v2 problem using q-learning and sarsa.</li>
+  <li><a href="https://github.com/nazaninsbr/Intelligent-Systems-CA1">Intelligent Systems CA1</a>: naive bayes, logistic regression, KNN and K-means </li>
   <li><a href="https://github.com/nazaninsbr/Intelligent-Systems-CA3">Intelligent Systems CA3</a>: k-means and hierarchical clustering + PCA</li>
   <li><a href="https://github.com/nazaninsbr/Genetic-Algorithm">Genetic Algorithm</a>: a genetic algorithm to solve the class scheduling problem in a university </li>
   <li><a href="https://github.com/nazaninsbr/Search-Agent">Search Agent</a>: an agent that would perform search algorithms such as DFS, A*, Iterative DFS and BFS on a maze</li>
@@ -92,6 +94,7 @@ As part of our compiler course, we created a compiler (from start to the very en
 <h3 id="course">Courses and School Work</h3>
 
 <ol>
+  <li><a href="https://github.com/nazaninsbr/Online-Courses">Online Courses</a>: the online courses I have completed</li>
   <li><a href="https://github.com/nazaninsbr/File-Sharing-System">File-Sharing System</a>: this idea that there are a number of mini-servers connected to a main server, when they are connecting they inform the main server of the files they have, then when the client connects to the main server and asks for some file the main server can connect it to the mini-server that has that file</li>
   <li><a href="https://github.com/nazaninsbr/OS-UT">OS</a>: my Operating Systems course work</li>
   <li><a href="https://github.com/nazaninsbr/IT-Lab">IT Lab</a>: we learning (very little) about bench marking and created a telegram bot</li>
@@ -120,4 +123,13 @@ As part of our compiler course, we created a compiler (from start to the very en
   <li><a href="https://github.com/nazaninsbr/Monty-Hall-Simulation">Monty Hall Simulation</a>: that really famous statistics problem? Anyone?</li>
   <li><a href="https://github.com/nazaninsbr/Git-Commands">Git Commands</a>: what can I say? I'm forgetful </li>
   <li><a href="https://github.com/nazaninsbr/Chat-App">Char App</a>: I think someone said 'hey have you heard of Elixir?' and this was created!</li>
+  <li><a href="https://github.com/nazaninsbr/Learning-Bootstrap">Learning Bootstrap</a></li>
+  <li><a href="https://github.com/nazaninsbr/Learning-Materialize">Learning Materialize</a></li>
+  <li><a href="https://github.com/nazaninsbr/What-is-TypeScript">What is TypeScript?</a></li>
+  <li><a href="https://github.com/nazaninsbr/Queue">Queue</a></li>
+  <li><a href="https://github.com/nazaninsbr/Stack">Stack</a></li>
+  <li><a href="https://github.com/nazaninsbr/LinkedLists">Linked Lists</a></li>
+  <li><a href="https://github.com/nazaninsbr/Network-Programming">Network Programming (python)</a></li>
+  <li><a href="https://github.com/nazaninsbr/superhero-dataset-rethinkdb-tutorial">superhero dataset rethinkdb tutorial</a></li>
+  <li><a href="https://github.com/nazaninsbr/Python-Multithreading-Multiprocessing">Python Multithreading Multiprocessing</a></li>
 </ol>
