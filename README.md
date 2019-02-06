@@ -11,6 +11,7 @@ Here is a list of categories my repositories fit into:
 * [Stuff that I really like that are probably not as cool as I think they are!](#cool)
 * [Super simple projects I added here because I didn't know where else to put them (What? I have a mac, 250 GB is so not enough!!)](#simple)
 
+<li><a href=""></a></li>
 <h3 id="ai">Artificial Intelligence and ML</h3>
 
 <ol>
@@ -18,6 +19,7 @@ Here is a list of categories my repositories fit into:
   <li><a href="https://github.com/nazaninsbr/Intelligent-Systems-CA3">Intelligent Systems CA3</a>: k-means and hierarchical clustering + PCA</li>
   <li><a href="https://github.com/nazaninsbr/Genetic-Algorithm">Genetic Algorithm</a>: a genetic algorithm to solve the class scheduling problem in a university </li>
   <li><a href="https://github.com/nazaninsbr/Search-Agent">Search Agent</a>: an agent that would perform search algorithms such as DFS, A*, Iterative DFS and BFS on a maze</li>
+  <li><a href="https://github.com/nazaninsbr/Intro-to-TensorflowJS">Intro to tensorflow.js</a></li>
 </ol>
 
 <h3 id="ds">Data Science and Data Analysis</h3>
@@ -57,6 +59,7 @@ As part of our compiler course, we created a compiler (from start to the very en
 
 <ol>
   <li><a href="https://github.com/nazaninsbr/F1-Front-Final">F1 Front</a>: the first website I made that actually looked nice</li>
+   <li><a href="https://github.com/nazaninsbr/Personal-Website">Personal Website</a>: a website that has a about, home and blog section</li>
   <li><a href="https://github.com/nazaninsbr/E-Commerce-Website">E-Commerce Website</a>: not really pretty but it works!</li>
   <li><a href="https://github.com/nazaninsbr/Web-Development">Web Development</a>: a polling website, a login page, a blog, basically my start in web</li>
   <li><a href="https://github.com/nazaninsbr/User-Management">User Management</a>: the back-end of a website which would allow you to add users, delete them, let them take leaves, search them using Spring Boot</li>
@@ -88,10 +91,13 @@ As part of our compiler course, we created a compiler (from start to the very en
 
 <h3 id="course">Courses and School Work</h3>
 
-1. <a href="https://github.com/nazaninsbr/File-Sharing-System">File-Sharing System</a>: this idea that there are a number of mini-servers connected to a main server, when they are connecting they inform the main server of the files they have, then when the client connects to the main server and asks for some file the main server can connect it to the mini-server that has that file
-2. <a href="https://github.com/nazaninsbr/OS-UT">OS</a>: my Operating Systems course work
-3. <a href="https://github.com/nazaninsbr/IT-Lab">IT Lab</a>: we learning (very little) about bench marking and created a telegram bot
-4. <a href="https://github.com/nazaninsbr/UT-Semester5">UT Semester 5</a>: some of the course work for the courses I had in my fifth semester
+<ol>
+  <li><a href="https://github.com/nazaninsbr/File-Sharing-System">File-Sharing System</a>: this idea that there are a number of mini-servers connected to a main server, when they are connecting they inform the main server of the files they have, then when the client connects to the main server and asks for some file the main server can connect it to the mini-server that has that file</li>
+  <li><a href="https://github.com/nazaninsbr/OS-UT">OS</a>: my Operating Systems course work</li>
+  <li><a href="https://github.com/nazaninsbr/IT-Lab">IT Lab</a>: we learning (very little) about bench marking and created a telegram bot</li>
+  <li><a href="https://github.com/nazaninsbr/UT-Semester5">UT Semester 5</a>: some of the course work for the courses I had in my fifth semester</li>
+  <li><a href="https://github.com/nazaninsbr/Source-and-Network-Coding">Source and Network Coding</a>: convolutional and viterbi codes</li>
+</ol> 
 
 <h3 id="cool">Stuff that I really like that are probably not as cool as I think they are!</h3>
 
@@ -107,6 +113,7 @@ As part of our compiler course, we created a compiler (from start to the very en
 
 <ol>
   <li><a href="https://github.com/nazaninsbr/Graph-Display-App">Graph Display App</a></li>
+  <li><a href="https://github.com/nazaninsbr/Silly-Song">Silly Song</a></li>
   <li><a href="https://github.com/nazaninsbr/Introduction-to-Selection">Introduction to Selection</a>: the codes that I wrote when I  started learning some programming languages </li>
   <li><a href="https://github.com/nazaninsbr/Graph">Graph</a>: creating and visualizing graphs </li>
   <li><a href="https://github.com/nazaninsbr/Caesar-Cipher-Implementation">Caesar Cipher Implementation</a>: the name says it all</li>
