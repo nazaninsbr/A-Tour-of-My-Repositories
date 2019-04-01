@@ -1,4 +1,4 @@
-Hello, welcome to my GitHub page!! Now you might be thinking, WTF is going on here? Well, if you do visit <a href="https://github.com/nazaninsbr">my GitHub profile</a> you will see quite a number of repositories and you might get confused, so I'm here to help you out:D
+Hello and welcome to my GitHub page!! Now you might be thinking, WTF is going on here? Well, if you do visit <a href="https://github.com/nazaninsbr">my GitHub profile</a> you will see quite a number of repositories and you might get confused, so I'm here to help you out:D
 Here is a list of categories my repositories fit into:
 * [My Blog](https://nazaninsbr.github.io/Lets-Write/)
 * [Artificial Intelligence and ML](#ai)
@@ -63,7 +63,7 @@ As part of our compiler course, we created a compiler (from start to the very en
 
 <ol>
   <li><a href="https://github.com/NegarMirgati/CALAB">CALAB</a>: a MIPS CPU that has SRAM, cache, hazard detection, forwarding and ... (a shared work with Negar Mirgati)</li>
-  <li><a href="https://github.com/nazaninsbr/Hardware-Design">Hardware Design</a>: single cycle CPU, Adders, MUXs and other hardware modules></li>
+  <li><a href="https://github.com/nazaninsbr/Hardware-Design">Hardware Design</a>: single cycle CPU, Adders, MUXs and other hardware modules</li>
 </ol>
 
 <h3 id="web">Web development</h3>
@@ -123,7 +123,7 @@ As part of our compiler course, we created a compiler (from start to the very en
 <ol>
   <li><a href="https://github.com/nazaninsbr/Photo-Mosaic">Photo Mosaic</a>: you input a target image and a number of other images and the code creates a photo mosaic for you, can you honestly tell me that isn't cool?! LOL</li>
   <li><a href="https://github.com/nazaninsbr/Vigenere-Cipher-Implementation">Vigenere Cipher Implementation</a>: this is quite a simple cipher, but I felt very much like a hacker when I coded it:D</li>
-  <li><a href="https://github.com/nazaninsbr/2048">2048</a>: I think this was the very first repository I forked and worked, so it's a little nostalgic</li>
+  <li><a href="https://github.com/nazaninsbr/2048">2048</a>: I think this was the very first repository I forked and worked on, so it's a little nostalgic</li>
   <li><a href="https://github.com/nazaninsbr/Mini-Projects">Mini Projects</a>: web crawler, profanity checker, paint app, text sender, you name it, it's in there</li>
   <li><a href="https://github.com/nazaninsbr/Getting-Started-with-Games">Getting Started with Games</a>: space invaders, snake and tennis</li>
   <li><a href="https://github.com/nazaninsbr/first-contributions">first-contribution</a>: this is an opensource project that helps you make your very first contribution to a project, it felt good:)</li>
