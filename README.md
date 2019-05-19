@@ -1,6 +1,6 @@
-Hello and welcome to my GitHub page!! Now you might be thinking, WTF is going on here? Well, if you do visit <a href="https://github.com/nazaninsbr">my GitHub profile</a> you will see quite a number of repositories and you might get confused, so I'm here to help you out:D
-Here is a list of categories my repositories fit into:
-* [My Blog](https://nazaninsbr.github.io/Lets-Write/)
+Hello and welcome to my GitHub page!! Now you might be thinking, What is going on here? Well, if you do visit <a href="https://github.com/nazaninsbr">my GitHub profile</a> you will see a number of repositories and you might get confused, so I'm here to help you out:D
+Here is a list of categories my repositories fall into:
+
 * [Artificial Intelligence and ML](#ai)
 * [Data Science and Data Analysis](#ds)
 * [Data Structures](#data)
