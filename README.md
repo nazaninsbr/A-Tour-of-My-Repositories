@@ -45,8 +45,7 @@ Here is a list of categories my repositories fall into:
 <h3 id="kg">Kaggle Dataset Analysis and Visualization</h3>
 
 <ol>
-    <li><a href="https://github.com/nazaninsbr/GitHub-Crawler">GitHub Crawler</a></li>
-    <li><a href="https://github.com/nazaninsbr/IMDB-Crawler">IMDB Crawler</a></li>
+    <li><a href=""></a></li>
 </ol>
 
 <h3 id="data">Data Structures</h3>
