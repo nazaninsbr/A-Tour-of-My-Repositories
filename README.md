@@ -3,6 +3,7 @@ Here is a list of categories my repositories fall into:
 
 * [Artificial Intelligence and ML](#ai)
 * [Data Science and Data Analysis](#ds)
+* [Kaggle Dataset Analysis and Visualization](#kg)
 * [Data Structures](#data)
 * [Compiler](#compiler)
 * [Hardware](#hardware)
@@ -39,6 +40,13 @@ Here is a list of categories my repositories fall into:
     <li><a href="https://github.com/nazaninsbr/Wikipedia-Crawler">Wikipedia Crawler</a></li>
     <li><a href="https://github.com/nazaninsbr/Social-Media-API-Bots-Starter">Social Media API-Bots Starter</a>: Getting started with different social media APIs</li>
     <li><a href="https://github.com/nazaninsbr/Iris-Dataset">Iris Dataset</a></li>
+</ol>
+
+<h3 id="kg">Kaggle Dataset Analysis and Visualization</h3>
+
+<ol>
+    <li><a href="https://github.com/nazaninsbr/GitHub-Crawler">GitHub Crawler</a></li>
+    <li><a href="https://github.com/nazaninsbr/IMDB-Crawler">IMDB Crawler</a></li>
 </ol>
 
 <h3 id="data">Data Structures</h3>
@@ -110,6 +118,7 @@ As part of our compiler course, we created a compiler (from start to the very en
 <h3 id="course">Courses and School Work</h3>
 
 <ol>
+  <li><a href="https://github.com/nazaninsbr/Game-Theory-Midterm-Prep">Game Theory Midterm Prep: 44 questions to help you prepare for your midterm exam</li>
   <li><a href="https://github.com/nazaninsbr/Online-Courses">Online Courses</a>: the online courses I have completed</li>
   <li><a href="https://github.com/nazaninsbr/File-Sharing-System">File-Sharing System</a>: this idea that there are a number of mini-servers connected to a main server, when they are connecting they inform the main server of the files they have, then when the client connects to the main server and asks for some file the main server can connect it to the mini-server that has that file</li>
   <li><a href="https://github.com/nazaninsbr/OS-UT">OS</a>: my Operating Systems course work</li>
