@@ -118,7 +118,7 @@ As part of our compiler course, we created a compiler (from start to the very en
 <h3 id="course">Courses and School Work</h3>
 
 <ol>
-  <li><a href="https://github.com/nazaninsbr/Game-Theory-Midterm-Prep">Game Theory Midterm Prep: 44 questions to help you prepare for your midterm exam</li>
+  <li><a href="https://github.com/nazaninsbr/Game-Theory-Midterm-Prep">Game Theory Midterm Prep</a>: 44 questions to help you prepare for your midterm exam</li>
   <li><a href="https://github.com/nazaninsbr/Online-Courses">Online Courses</a>: the online courses I have completed</li>
   <li><a href="https://github.com/nazaninsbr/File-Sharing-System">File-Sharing System</a>: this idea that there are a number of mini-servers connected to a main server, when they are connecting they inform the main server of the files they have, then when the client connects to the main server and asks for some file the main server can connect it to the mini-server that has that file</li>
   <li><a href="https://github.com/nazaninsbr/OS-UT">OS</a>: my Operating Systems course work</li>
