@@ -1,7 +1,7 @@
 Hello and welcome to my GitHub page!! Now you might be thinking, What is going on here? Well, if you do visit <a href="https://github.com/nazaninsbr">my GitHub profile</a> you will see a number of repositories and you might get confused, so I'm here to help you out:D
 Here is a list of categories my repositories fall into:
 
-* [Artificial Intelligence and ML](#ai)
+* [Artificial Intelligence and Machine Learning and Reinforcement Learning](#ai)
 * [Data Science and Data Analysis](#ds)
 * [Kaggle Dataset Analysis and Visualization](#kg)
 * [Data Structures](#data)
@@ -17,6 +17,7 @@ Here is a list of categories my repositories fall into:
 <h3 id="ai">Artificial Intelligence and ML</h3>
 
 <ol>
+  <li><a href="https://github.com/nazaninsbr/Multi-Armed-Bandit">Multi-Armed-Bandit</a>: Different algorithms to solve the n-armed bandit problem</li>
   <li><a href="https://github.com/nazaninsbr/Neural-Network-Python">Neural Network (python)</a>: a neural network coded from scratch</li>
   <li><a href="https://github.com/nazaninsbr/Intellignet-Taxi">Intellignet-Taxi</a>: solving the taxi-v2 problem using q-learning and sarsa.</li>
   <li><a href="https://github.com/nazaninsbr/Intelligent-Systems-CA1">Intelligent Systems CA1</a>: naive bayes, logistic regression, KNN and K-means </li>
