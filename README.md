@@ -1,4 +1,5 @@
-Hello and welcome to my GitHub page!! Now you might be thinking, What is going on here? Well, if you do visit <a href="https://github.com/nazaninsbr">my GitHub profile</a> you will see a number of repositories and you might get confused, so I'm here to help you out:D
+Hello and welcome to my GitHub page!! Now you might be thinking, What is going on here? Well, if you do visit <a href="https://github.com/nazaninsbr">my GitHub profile</a> you will see a large number of repositories, which might be a bit time consuming to go through, so here is a categorized version of everything you would find on my GitHub:
+
 Here is a list of categories my repositories fall into:
 
 * [Reinforcement Learning](#rl)
