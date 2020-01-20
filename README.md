@@ -15,7 +15,7 @@ Here is a list of categories my repositories fall into:
 * [Super simple projects I added here because I didn't know where else to put them (What? I have a mac, 250 GB is so not enough!!)](#simple)
 
 <!--<li><a href=""></a></li>-->
-<h3 id="ai">Reinforcement Learning</h3>
+<h3 id="rl">Reinforcement Learning</h3>
 <ol>
   <li><a href="https://github.com/nazaninsbr/Multi-Armed-Bandit">Multi-Armed-Bandit</a>: Different algorithms to solve the n-armed bandit problem</li>
   <li><a href="https://github.com/nazaninsbr/FrozenLake-Multistate-RL">FrozenLake Multistate-RL</a>: Different algorithms to solve the FrozenLake Gym environment</li>
