@@ -5,7 +5,6 @@ Here is a list of categories my repositories fall into:
 * [Reinforcement Learning](#rl)
 * [Artificial Intelligence and Machine Learning](#ai)
 * [Data Science and Data Analysis](#ds)
-<!--* [Kaggle Dataset Analysis and Visualization](#kg)-->
 * [Data Structures](#data)
 * [Compiler](#compiler)
 * [Hardware](#hardware)
@@ -14,6 +13,8 @@ Here is a list of categories my repositories fall into:
 * [Courses and School Work](#course)
 * [Stuff that I really like that are probably not as cool as I think they are!](#cool)
 * [Super simple projects I added here because I didn't know where else to put them (What? I have a mac, 250 GB is so not enough!!)](#simple)
+* [Works in progress](#inprog)
+* [Never Ending Projects](#neverending)
 
 <!--<li><a href=""></a></li>-->
 <h3 id="rl">Reinforcement Learning</h3>
@@ -44,6 +45,7 @@ Here is a list of categories my repositories fall into:
 <h3 id="ds">Data Science and Data Analysis</h3>
 
 <ol>
+    <li><a href="https://github.com/nazaninsbr/Most-Read-Books">Most Read Books</a>: the most read books of 2019, collected from Goodreads</li>
     <li><a href="https://github.com/nazaninsbr/GitHub-Crawler">GitHub Crawler</a></li>
     <li><a href="https://github.com/nazaninsbr/IMDB-Crawler">IMDB Crawler</a></li>
     <li><a href="https://github.com/nazaninsbr/Twitter-Crawler">Twitter Crawler</a></li>
@@ -165,4 +167,19 @@ As part of our compiler course, we created a compiler (from start to the very en
   <li><a href="https://github.com/nazaninsbr/py-lists-with-maps-data-science-intro-000">py-lists-with-maps-data-science-intro-000</a>: I read somewhere this was what kode with klossy students use and I wanted to test it</li>
   <li><a href="https://github.com/nazaninsbr/python-lists-lab-data-science-intro-000">python-lists-lab-data-science-intro-000</a></li>
   <li><a href="https://github.com/nazaninsbr/python-variables-readme-data-science-intro-000">python-variables-readme-data-science-intro-000</a></li>
+</ol>
+
+<h3 id="inprog">Works in progress</h3>
+
+<ol>
+  <li><a href="https://github.com/nazaninsbr/NLP">CS224N</a></li>
+  <li><a href="https://github.com/nazaninsbr/Data-Analytics-and-Visualization">Data Analytics and Visualization</a></li>
+  <li><a href="https://github.com/nazaninsbr/CS224W-Machine-Learning-with-Graphs">CS224W Machine Learning with Graphs</a></li>
+</ol>
+
+<h3 id="neverending">Never Ending Projects</h3>
+
+<ol>
+  <li><a href="https://github.com/nazaninsbr/Reading-List">Reading List</a></li>
+  <li><a href="https://github.com/nazaninsbr/Online-Courses">Online Courses</a></li>
 </ol>
