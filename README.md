@@ -16,7 +16,6 @@ Here is a list of categories my repositories fall into:
 * [Works in progress](#inprog)
 * [Never Ending Projects](#neverending)
 
-<!--<li><a href=""></a></li>-->
 <h3 id="rl">Reinforcement Learning</h3>
 <ol>
   <li><a href="https://github.com/nazaninsbr/Multi-Armed-Bandit">Multi-Armed-Bandit</a>: Different algorithms to solve the n-armed bandit problem</li>
@@ -134,6 +133,7 @@ As part of our compiler course, we created a compiler (from start to the very en
   <li><a href="https://github.com/nazaninsbr/UT-Semester5">UT Semester 5</a>: some of the course work for the courses I had in my fifth semester</li>
   <li><a href="https://github.com/nazaninsbr/Source-and-Network-Coding">Source and Network Coding</a>: convolutional and viterbi codes</li>
   <li><a href="https://github.com/nazaninsbr/Attendance-Check">Attendance Check</a></li>
+  <li><a href="https://github.com/nazaninsbr/Udacity-Courses-1">Udacity Courses</a></li>
 </ol> 
 
 <h3 id="cool">Stuff that I really like that are probably not as cool as I think they are!</h3>
