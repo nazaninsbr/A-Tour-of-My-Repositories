@@ -26,6 +26,7 @@ Here is a list of categories my repositories fall into:
 <h3 id="ai">Artificial Intelligence and Machine Learning</h3>
 
 <ol>
+  <li><a href="https://github.com/nazaninsbr/Metaphor-Detection">Metaphor Detection</a></li>
   <li><a href="https://github.com/nazaninsbr/Traffic-Sign-Recognition">Traffic Sign Recognition</a>: using CNNs to recognize traffic signs in the gtsrb-german-traffic-sign dataset.</li>
   <li><a href="https://github.com/nazaninsbr/pollution-prediction">Pollution Prediction</a>: Predicting pollution of a city based on historical data using LSTM, GRU and RNN.</li>
   <li><a href="https://github.com/nazaninsbr/Neural-Network-Python">Neural Network (python)</a>: a neural network coded from scratch</li>
@@ -35,7 +36,7 @@ Here is a list of categories my repositories fall into:
   <li><a href="https://github.com/nazaninsbr/Genetic-Algorithm">Genetic Algorithm</a>: a genetic algorithm to solve the class scheduling problem in a university </li>
   <li><a href="https://github.com/nazaninsbr/Search-Agent">Search Agent</a>: an agent that would perform search algorithms such as DFS, A*, Iterative DFS and BFS on a maze</li>
   <li><a href="https://github.com/nazaninsbr/Regression">Regression</a></li>
-  <li><a href="https://github.com/nazaninsbr/Neural-Network">Neural Network</a>: coded using VHDL and matlab </li>
+  <li><a href="https://github.com/nazaninsbr/Neural-Network">Neural Network</a>: coded using VHDL and matlab</a></li>
   <li><a href="https://github.com/nazaninsbr/Clustering">Clustering</a></li>
   <li><a href="https://github.com/nazaninsbr/SVM">SVM</a></li>
   <li><a href="https://github.com/nazaninsbr/Intro-to-TensorflowJS">Intro to tensorflow.js</a></li>
@@ -52,6 +53,7 @@ Here is a list of categories my repositories fall into:
     <li><a href="https://github.com/nazaninsbr/Wikipedia-Crawler">Wikipedia Crawler</a></li>
     <li><a href="https://github.com/nazaninsbr/Social-Media-API-Bots-Starter">Social Media API-Bots Starter</a>: Getting started with different social media APIs</li>
     <li><a href="https://github.com/nazaninsbr/Iris-Dataset">Iris Dataset</a></li>
+    <li><a href="https://github.com/nazaninsbr/Irainian-Holiday-Crawler">Irainian Holiday Crawler</a></li>
 </ol>
 
 <h3 id="data">Data Structures</h3>
@@ -131,6 +133,7 @@ As part of our compiler course, we created a compiler (from start to the very en
   <li><a href="https://github.com/nazaninsbr/IT-Lab">IT Lab</a>: we learning (very little) about bench marking and created a telegram bot</li>
   <li><a href="https://github.com/nazaninsbr/UT-Semester5">UT Semester 5</a>: some of the course work for the courses I had in my fifth semester</li>
   <li><a href="https://github.com/nazaninsbr/Source-and-Network-Coding">Source and Network Coding</a>: convolutional and viterbi codes</li>
+  <li><a href="https://github.com/nazaninsbr/Attendance-Check">Attendance Check</a></li>
 </ol> 
 
 <h3 id="cool">Stuff that I really like that are probably not as cool as I think they are!</h3>
