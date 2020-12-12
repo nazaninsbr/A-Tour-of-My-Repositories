@@ -175,14 +175,12 @@ As part of our compiler course, we created a compiler (from start to the very en
 <h3 id="inprog">Works in progress</h3>
 
 <ol>
-  <li><a href="https://github.com/nazaninsbr/NLP">CS224N</a></li>
+  <li><a href="https://github.com/nazaninsbr/Reinforcement-Learning">Reinforcement Learning</a></li>
   <li><a href="https://github.com/nazaninsbr/Data-Analytics-and-Visualization">Data Analytics and Visualization</a></li>
-  <li><a href="https://github.com/nazaninsbr/CS224W-Machine-Learning-with-Graphs">CS224W Machine Learning with Graphs</a></li>
 </ol>
 
 <h3 id="neverending">Never Ending Projects</h3>
 
 <ol>
-  <li><a href="https://github.com/nazaninsbr/Reading-List">Reading List</a></li>
   <li><a href="https://github.com/nazaninsbr/Online-Courses">Online Courses</a></li>
 </ol>
